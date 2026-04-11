@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(textutil *)",
+      "Bash(npx *)",
+      "Bash(npm create *)",
+      "Bash(./node_modules/.bin/tsc *)",
+      "Bash(node_modules/.bin/tsc *)",
+      "Bash(ls *)",
+      "Bash(node *)",
+      "Bash(npm install)",
+      "Bash(npm run *)",
+      "Bash(sed *)",
+      "Bash(python3)",
+      "Bash(with)",
+      "Bash(as *)",
+      "Bash(content *)",
+      "Bash('''classname=\"absolute left-0 right-0\"\n          style={{ top: '120px', height: '80px' }}\n          animate={{ opacity: 0.2 + (co2level / 100) * 0.6 }}\n          classname=\"bg-gradient-to-b from-gray-600 to-gray-400 rounded-xl flex items-center justify-center\"''',)",
+      "Bash('''classname=\"absolute left-0 right-0 bg-gradient-to-b from-gray-600 to-gray-400 rounded-xl flex items-center justify-center\"\n          style={{ top: '120px', height: '80px' }}\n          animate={{ opacity: 0.2 + (co2level / 100) * 0.6 }}''')",
+      "Bash(f.write)",
+      "Bash(print)",
+      "Bash(python_script)",
+      "Bash(sleep *)",
+      "Bash(curl *)",
+      "Bash(grep *)",
+      "Bash(do *)",
+      "Bash(done)",
+      "Bash(rm *)",
+      "Bash(then *)",
+      "Bash(fi)",
+      "Bash(git add *)"
+    ]
+  },
+  "$version": 3
+}

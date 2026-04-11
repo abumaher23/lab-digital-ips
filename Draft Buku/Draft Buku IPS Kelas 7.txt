@@ -1,0 +1,1495 @@
+
+Tema I: Kehidupan Sosial dan Kondisi Lingkungan Sekitar
+Tujuan Pembelajaran: Setelah mempelajari tema ini, siswa diharapkan mampu:
+	•	Mendeskripsikan kondisi lingkungan sekitar tempat tinggal.
+	•	Menjelaskan konektivitas antarruang dalam pemenuhan kebutuhan.
+	•	Menguraikan dampak perubahan iklim dan potensi bencana alam di Indonesia.
+	•	Mengidentifikasi berbagai kegiatan ekonomi dan dasar-dasar interaksi sosial.
+	•	Menjelaskan konsep dasar ilmu sejarah sebagai peristiwa masa lalu.
+Pelajaran 1: Mengenal Lokasi Absolut dan Relatif Indonesia
+M1: Memulai dengan Menantang
+Pernahkah kamu memesan makanan melalui aplikasi ojek online? Bagaimana pengemudi bisa menemukan rumahmu dengan tepat di tengah ribuan rumah lainnya? Hal ini mungkin terjadi karena setiap tempat di bumi memiliki "alamat langit" yang unik dan tidak akan tertukar, yang kita kenal sebagai lokasi.
+A. Lokasi Absolut
+Lokasi merupakan letak suatu objek di permukaan bumi. Lokasi absolut adalah letak suatu tempat yang bersifat tetap terhadap sistem koordinat garis lintang dan garis bujur. Sifat utama dari lokasi absolut adalah mutlak dan tidak berubah-ubah, meskipun kondisi di sekitarnya berubah.
+1. Letak Astronomis Indonesia
+Secara absolut (astronomis), Indonesia terletak pada koordinat:
+	•	6°LU (Lintang Utara) — 11°LS (Lintang Selatan)
+	•	95°BT (Bujur Timur) — 141°BT (Bujur Timur)
+Hal ini menunjukkan bahwa tidak ada negara lain di dunia yang memiliki letak koordinat yang persis sama dengan Indonesia.
+2. Garis Lintang dan Garis Bujur
+Penentuan lokasi absolut menggunakan sistem koordinat yang telah disepakati dunia:
+	•	Garis Lintang (Latitude): Garis khayal horizontal yang melingkari bumi. Berfungsi membagi wilayah iklim dunia (tropis, subtropis, sedang, dan dingin).
+	•	Garis Bujur (Longitude): Garis khayal vertikal yang menghubungkan Kutub Utara dan Kutub Selatan. Berfungsi untuk pembagian zona waktu di dunia berdasarkan meridian Greenwich di Inggris.
+Info Sistem koordinat sangat penting bagi navigasi. Seorang pilot pesawat terbang atau nakhoda kapal laut menggunakan koordinat lintang dan bujur agar tidak tersesat di ruang angkasa atau lautan luas.
+Kuis
+	•	Apa yang dimaksud dengan lokasi absolut?
+	•	Sebutkan letak astronomis wilayah Indonesia!
+B. Lokasi Relatif
+Berbeda dengan lokasi absolut, lokasi relatif adalah letak suatu tempat yang dapat berubah-ubah sesuai dengan keadaan sekitarnya. Lokasi ini sangat bergantung pada sudut pandang dan kondisi lingkungan geografis di sekelilingnya.
+1. Pengaruh terhadap Nilai Objek
+Lokasi relatif sangat memengaruhi nilai ekonomi dan sosial suatu tempat. Contohnya:
+	•	Harga Tanah: Lahan yang terletak di dekat jalan raya utama biasanya jauh lebih mahal dibandingkan lahan di dalam gang sempit, meskipun luas tanahnya sama.
+	•	Kesesuaian Tempat Tinggal: Lokasi di pinggir jalan raya strategis untuk usaha, namun kurang nyaman untuk tempat tinggal karena polusi udara dan suara dari kendaraan bermotor.
+2. Pemanfaatan Peta Digital
+Di era modern, kita tidak harus mendatangi lokasi secara langsung untuk mengetahui karakteristiknya. Melalui peta digital, kita bisa memantau kondisi lalu lintas, mencari rute alternatif tercepat, hingga melacak posisi paket kiriman secara real-time.
+M2: Memberi Pengalaman Langsung
+Kegiatan 1.1: Eksplorasi Lokasi Digital
+	•	Individu: Unduhlah aplikasi peta digital (seperti Google Maps atau GPS Essentials) di ponselmu.
+	•	Langkah Kerja:
+	•	Cari titik koordinat rumahmu saat ini (Contoh: -6.123, 106.456). Catat sebagai Lokasi Absolut.
+	•	Deskripsikan posisi rumahmu berdasarkan benda di sekitarnya (Contoh: Dekat masjid, depan toko kelontong, atau 500 meter dari sekolah). Catat sebagai Lokasi Relatif.
+	•	Analisis: Jika suatu saat toko kelontong di depan rumahmu terbongkar, apakah lokasi absolut rumahmu berubah? Bagaimana dengan lokasi relatifnya? Diskusikan hasilnya bersama teman sebangkumu!
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Fenomena IKN (Ibu Kota Nusantara) Sejak pemerintah memutuskan memindahkan Ibu Kota Negara ke Penajam Paser Utara, Kalimantan Timur, harga tanah di sana melonjak hingga 10 kali lipat (dari Rp100-200 juta menjadi Rp1 miliar per hektare).
+Pertanyaan Tantangan:
+	•	Menurutmu, kenaikan harga tanah di IKN dipengaruhi oleh jenis lokasi apa? (Absolut atau Relatif?) Jelaskan alasanmu!
+	•	Mengapa perubahan kebijakan pemerintah bisa mengubah nilai suatu lokasi secara drastis?
+Scan (QR Code)
+Pindai di sini untuk menonton video simulasi tentang bagaimana garis lintang dan bujur menentukan posisi kapal di tengah samudra.
+
+
+Pelajaran 2: Kondisi Geografis dan Keruangan Indonesia
+M1: Memulai dengan Menantang
+Pernahkah kamu berkunjung ke daerah pegunungan yang dingin seperti Dieng atau justru berwisata ke pantai yang panas? Mengapa pemandangan dan aktivitas orang-orang di kedua tempat tersebut sangat berbeda? Hal ini terjadi karena Indonesia memiliki karakteristik keruangan dan bentuk muka bumi yang sangat beragam.
+A. Karakteristik Muka Bumi Indonesia
+Setiap tempat di permukaan bumi memiliki ciri khas yang unik. Fenomena perbedaan antara satu tempat dengan tempat lain menjadikan setiap wilayah di Indonesia memiliki potensi sumber daya yang berbeda-beda.
+1. Bentuk-Bentuk Muka Bumi
+Berdasarkan kondisi geograisnya, wilayah Indonesia terdiri atas berbagai bentuk muka bumi utama, antara lain:
+	•	Dataran Rendah: Wilayah datar dengan ketinggian 0–200 meter di atas permukaan laut. Biasanya menjadi pusat pemukiman dan perkotaan.
+	•	Dataran Tinggi: Wilayah datar yang terletak pada ketinggian di atas 700 meter. Contohnya adalah Dataran Tinggi Dieng atau Nepal van Java di Magelang.
+	•	Pegunungan dan Gunung: Rangkaian gunung yang memanjang. Indonesia memiliki banyak gunung api aktif karena letak geologisnya.
+	•	Daerah Pesisir dan Pantai: Wilayah perbatasan antara daratan dan lautan.
+2. Keunikan Ruang
+Karena perbedaan bentuk muka bumi tersebut, setiap ruang di Indonesia memiliki "identitas" tersendiri. Misalnya, wilayah yang berada dekat dengan gunung berapi biasanya memiliki tanah yang sangat subur karena mengandung banyak unsur hara.
+Kuis
+	•	Sebutkan tiga bentuk muka bumi yang ada di Indonesia!
+	•	Apa keuntungan tinggal di wilayah dekat gunung berapi?
+B. Pengaruh Kondisi Geografis terhadap Kehidupan
+Karakteristik muka bumi yang berbeda secara langsung memengaruhi cara manusia beradaptasi dan memenuhi kebutuhan hidupnya.
+1. Mata Pencaharian Penduduk
+Perbedaan fisik wilayah menyebabkan mata pencaharian penduduk di setiap daerah menjadi beragam:
+	•	Penduduk Pesisir: Dominan bekerja sebagai nelayan, pembudi daya hasil laut, atau di sektor pariwisata bahari.
+	•	Penduduk Dataran Tinggi: Mayoritas bekerja sebagai petani perkebunan (sayur, kopi, teh) atau di sektor kehutanan.
+	•	Penduduk Dataran Rendah: Banyak bekerja di sektor perdagangan, industri, dan jasa karena aksesibilitas yang lebih mudah.
+2. Pola Pemukiman dan Budaya
+Kondisi geografis juga memengaruhi cara orang membangun rumah dan berpakaian.
+	•	Contoh: Penduduk di daerah pegunungan yang bersuhu rendah cenderung menggunakan pakaian tebal dan membangun rumah dengan ventilasi yang diatur agar suhu ruangan tetap hangat.
+Info
+Toponimi adalah studi tentang penamaan tempat berdasarkan kenampakan fisik atau sejarahnya. Banyak nama daerah di Indonesia diambil dari kondisi geografis sekitarnya.
+M2: Memberi Pengalaman Langsung
+Kegiatan 2.1: Analisis Hubungan Alam dan Pekerjaan (Individu)
+	•	Langkah Kerja: Amatilah lingkungan di sekitar tempat tinggalmu atau sekolahmu.
+	•	Identifikasi: Tentukan termasuk bentuk muka bumi apakah daerahmu tersebut (Dataran rendah/tinggi/pesisir)?
+	•	Observasi: Tuliskan tiga jenis mata pencaharian yang paling banyak kamu temukan di daerah tersebut.
+	•	Kesimpulan: Jelaskan mengapa pekerjaan tersebut banyak dipilih oleh penduduk setempat berdasarkan kondisi alamnya!
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Transformasi Lahan Di banyak daerah, lahan pertanian di dataran rendah kini mulai berubah menjadi komplek perumahan dan pabrik.
+Pertanyaan Tantangan:
+	•	Menurut pendapatmu, apa dampaknya bagi ketersediaan pangan jika semua dataran rendah berubah menjadi bangunan?
+	•	Bagaimana cara kita tetap menjaga kelestarian alam di tengah kebutuhan pemukiman yang terus meningkat?
+Scan (QR Code)
+Pindai di sini untuk melihat video dokumenter tentang keberagaman bentang alam Indonesia dan keunikan budaya masyarakatnya.
+
+Pelajaran 3: Konektivitas Antarruang dan Interaksi Antarwilayah
+M1: Memulai dengan Menantang
+Coba perhatikan menu makan siangmu hari ini. Jika kamu makan ikan goreng dan sayur kangkung, apakah kedua bahan tersebut berasal dari tempat yang sama? Ikan dihasilkan oleh nelayan di pesisir, sedangkan kangkung mungkin ditanam oleh petani di dataran tinggi. Bagaimana keduanya bisa sampai di piringmu? Inilah yang disebut dengan konektivitas antarruang.
+A. Hakikat Interaksi Antarruang
+Setiap tempat di permukaan bumi memiliki ciri khas yang unik, baik dari segi potensi alam maupun sumber daya manusianya. Perbedaan inilah yang mendasari terjadinya interaksi antarwilayah untuk memenuhi kebutuhan hidup.
+Interaksi adalah suatu proses yang sifatnya timbal balik dan mempunyai pengaruh terhadap tingkah laku, baik melalui kontak langsung maupun tidak langsung. Dalam konteks keruangan, interaksi merupakan peristiwa saling memengaruhi pada daya, objek, atau tempat.
+Syarat Terjadinya Interaksi Antarruang
+Interaksi antarruang tidak terjadi begitu saja, melainkan dipengaruhi oleh beberapa faktor utama:
+1. Saling Melengkapi (Complementarity)
+Kondisi ini terjadi jika ada wilayah-wilayah yang memiliki perbedaan komoditas yang dihasilkan.
+	•	Contoh: Wilayah A merupakan surplus sayuran tetapi minus ikan. Wilayah B merupakan surplus ikan tetapi minus sayuran. Maka, Wilayah A dan Wilayah B akan melakukan interaksi melalui aktivitas perdagangan untuk saling memenuhi kebutuhan.
+2. Kesempatan Berintervensi (Intervening Opportunity)
+Kesempatan berintervensi merupakan suatu lokasi yang menawarkan alternatif lebih baik sebagai tempat asal maupun tempat tujuan.
+	•	Contoh: Biasanya Wilayah A membeli ikan ke Wilayah B. Namun, kemudian diketahui ada Wilayah C yang juga menghasilkan ikan dengan jarak yang lebih dekat dan ongkos angkut yang lebih murah. Akibatnya, interaksi antara Wilayah A dan B melemah karena beralih ke Wilayah C.
+B. Pengaruh Karakteristik Muka Bumi terhadap Ruang
+Bentuk muka bumi yang berbeda-beda memengaruhi aktivitas ekonomi dan mata pencaharian penduduk di dalam ruang tersebut.
+	•	Daerah Pesisir: Penduduknya cenderung bekerja sebagai nelayan atau di sektor pariwisata bahari.
+	•	Daerah Pegunungan: Penduduknya cenderung bekerja sebagai petani perkebunan (seperti kopi atau teh) atau di sektor kehutanan.
+	•	Daerah Perkotaan: Menjadi pusat kegiatan jasa, industri, dan perdagangan yang membutuhkan pasokan bahan baku dari desa.
+Info Konektivitas bukan hanya soal perpindahan barang, tetapi juga perpindahan informasi dan manusia (migrasi) yang memicu perubahan sosial di kedua wilayah yang berinteraksi.
+Kuis
+	•	Apa yang dimaksud dengan interaksi antarruang?
+	•	Mengapa perbedaan potensi alam dapat memicu interaksi antarwilayah?
+M2: Memberi Pengalaman Langsung
+Kegiatan 2.1: Menelusuri Asal Makanan Tradisional (Kelompok)
+	•	Langkah Kerja: Buatlah kelompok (3–5 orang). Carilah informasi mengenai satu makanan tradisional (misalnya: Gudeg, Pempek, atau Rendang).
+	•	Identifikasi Bahan: Tuliskan bahan baku utama makanan tersebut dan asal daerahnya.
+	•	Analisis Konektivitas: Jika bahan baku tersebut berasal dari luar daerahmu, diskusikan bagaimana cara bahan tersebut sampai ke daerahmu. Apakah ada wilayah lain yang menawarkan bahan baku yang sama namun lebih dekat (Kesempatan Berintervensi)?.
+	•	Presentasi: Sajikan hasil diskusi dalam bentuk poster digital atau PowerPoint.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Pembangunan Tol dan Ekonomi Lokal Pembangunan jalan tol (seperti Tol Yogyakarta–Bawen) dirancang untuk menciptakan "segitiga emas" yang meningkatkan konektivitas dan pariwisata di berbagai wilayah sekaligus.
+Pertanyaan Tantangan:
+	•	Bagaimana pembangunan jalan tol dapat memperkuat kondisi "saling melengkapi" antarwilayah?
+	•	Apakah jalan tol dapat menjadi faktor "kesempatan berintervensi" bagi seseorang dalam memilih tempat berbelanja? Jelaskan alasanmu!.
+Scan (QR Code)
+Pindai di sini untuk melihat video animasi tentang skema interaksi antarwilayah (Surplus/Minus) dan dampaknya terhadap harga barang di pasar.
+
+Pelajaran 4: Fenomena Perubahan Iklim di Indonesia
+M1: Memulai dengan Menantang
+Pernahkah kamu merasa suhu udara sangat panas di pagi hari, namun tiba-tiba turun hujan sangat lebat di siang hari? Atau mungkin kamu pernah mendengar berita tentang penundaan jadwal pesawat akibat kabut tebal atau badai? Fenomena alam ini berkaitan erat dengan cuaca dan iklim yang memengaruhi aktivitas kita sehari-hari.
+A. Perbedaan Cuaca dan Iklim
+Banyak orang sering tertukar antara konsep cuaca dan iklim. Padahal, keduanya memiliki perbedaan yang mendasar pada cakupan waktu dan wilayahnya.
+	•	Cuaca: Kondisi rata-rata udara pada saat tertentu di suatu wilayah yang relatif sempit dan dalam waktu singkat.
+	•	Contoh: Suhu udara di Kabupaten Bantul pagi ini mencapai 24°C, atau hujan lebat disertai angin di Kabupaten Bogor sore ini.
+	•	Iklim: Kondisi cuaca rata-rata tahunan pada suatu wilayah yang luas.
+	•	Contoh: Indonesia beriklim tropis. Secara umum, Indonesia mengalami dua musim, yaitu musim hujan (Oktober—Maret) dan musim kemarau (April—September).
+B. Unsur-Unsur Cuaca dan Iklim
+Kondisi atmosfer dapat diamati dengan memperhatikan unsur-unsurnya. Unsur-unsur ini sangat memengaruhi kehidupan, terutama pada sektor pertanian:
+	•	Penyinaran Matahari: Lamanya matahari bersinar memengaruhi suhu udara dan proses fotosintesis tanaman.
+	•	Suhu: Derajat panas atau dingin udara. Suhu yang terlalu tinggi dapat mengurangi kadar air sehingga tanaman cenderung mengering.
+	•	Kelembapan: Kemampuan udara dalam mengandung uap air. Hal ini berfungsi membatasi hilangnya air pada tanaman.
+	•	Angin: Gerak alami udara yang sejajar dengan bumi. Angin membantu proses penyerbukan alami dan membantu penyebaran uap air.
+	•	Curah Hujan: Intensitas turunnya air dari langit. Hujan meningkatkan kadar air tanah, namun jika berlebihan dapat mengikis tanah.
+Kuis
+	•	Apa perbedaan utama antara cuaca dan iklim berdasarkan waktu dan wilayahnya?
+	•	Sebutkan dua musim yang dialami Indonesia sebagai negara beriklim tropis!
+C. Pengaruh Cuaca dan Iklim dalam Berbagai Bidang
+Kondisi atmosfer memengaruhi cara manusia bertahan hidup dan bekerja:
+	•	Bidang Pertanian: Menentukan pola tanam. Contohnya, petani menanam padi pada musim hujan dan menanam jagung pada musim kemarau.
+	•	Bidang Perhubungan: Curah hujan, kabut, dan angin dapat memengaruhi transportasi. Cuaca buruk sering kali menyebabkan penundaan penerbangan atau pelayaran demi keselamatan.
+	•	Bidang Industri: Kelembapan udara dan curah hujan tinggi dapat menyebabkan bagian mesin industri menjadi cepat berkarat jika tidak dirawat secara khusus.
+	•	Bidang Kesehatan: Masa peralihan musim (pancaroba) dapat memicu gangguan kesehatan seperti radang tenggorokan, flu, dan demam akibat debu dan perubahan suhu.
+Scan (QR Code)
+Pindai di sini untuk melihat video animasi tentang faktor-faktor yang memengaruhi perubahan musim di wilayah Indonesia.
+D. Mengenal Dampak Perubahan Iklim
+Perubahan iklim adalah berubahnya kondisi fisik atmosfer bumi, seperti suhu dan distribusi curah hujan, yang membawa dampak luas bagi sektor kehidupan.
+Dampak Nyata Perubahan Iklim:
+	•	Ekonomi: Curah hujan ekstrem dapat menyebabkan banjir pada lahan sayuran sehingga petani gagal panen dan mengalami penurunan produksi secara drastis.
+	•	Sosial Budaya: Kenaikan permukaan air laut membuat nelayan kesulitan mencari ikan di laut. Selain itu, cuaca yang tidak menentu membuat orang kini harus selalu siap membawa payung atau jas hujan meski cuaca terlihat cerah.
+M2: Memberi Pengalaman Langsung
+Kegiatan 4.1: Kampanye Visual Perubahan Iklim (Individu)
+	•	Langkah Kerja: Amatilah satu dampak perubahan iklim yang pernah terjadi di lingkungan sekitarmu (misal: banjir tiba-tiba atau kekeringan panjang).
+	•	Tugas: Buatlah sebuah poster kreatif bertema "Cegah Perubahan Iklim". Kamu dapat membuatnya secara manual di kertas atau digital menggunakan aplikasi seperti Canva.
+	•	Pesan: Masukkan pesan aksi nyata, seperti "Mari Menanam Pohon" atau "Kurangi Pemakaian Kendaraan Bermotor".
+	•	Presentasi: Kumpulkan karyamu untuk dipajang di majalah dinding sekolah sebagai bentuk edukasi bagi teman-temanmu.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Siap Sedia Payung Sebelum Hujan Dahulu, musim hujan dan kemarau di Indonesia lebih mudah diprediksi. Namun sekarang, cuaca sering kali tidak menentu. Hal ini merupakan salah satu tanda perubahan iklim yang kita rasakan secara langsung.
+Pertanyaan Tantangan:
+	•	Mengapa nelayan saat ini lebih sering mengalami kesulitan dalam menentukan waktu melaut dibandingkan beberapa puluh tahun yang lalu?
+	•	Bagaimana cara kamu menerapkan perilaku hemat energi di sekolah untuk membantu memperlambat dampak pemanasan global?
+
+
+Pelajaran 5: Potensi Bencana Alam dan Langkah Mitigasinya
+M1: Memulai dengan Menantang
+Pernahkah kamu merasakan guncangan tiba-tiba saat sedang belajar di kelas? Atau melihat berita tentang gunung meletus yang mengeluarkan abu vulkanis sangat tebal? Indonesia sering dijuluki sebagai laboratorium bencana alam. Namun, tahukah kamu bahwa di balik ancaman tersebut, posisi geologis kita juga menyimpan kekayaan yang luar biasa?
+A. Kondisi Geologis Indonesia
+Letak geologis adalah posisi suatu wilayah berdasarkan struktur batuannya. Indonesia berada pada titik pertemuan tiga lempeng tektonik besar dunia:
+	•	Lempeng Eurasia di sebelah utara.
+	•	Lempeng Indo-Australia di sebelah selatan.
+	•	Lempeng Pasifik di sebelah timur.
+Pertemuan lempeng-lempeng ini menyebabkan kerak bumi mengalami patahan dan retakan yang memungkinkan magma mengalir ke permukaan. Akibatnya, Indonesia memiliki jalur pegunungan aktif yang membentang dari Sumatra, Jawa, Nusa Tenggara, hingga Sulawesi, dengan total 127 gunung api aktif.
+Dampak Positif Letak Geologis
+Meskipun rawan bencana, kondisi ini memberikan keuntungan besar bagi kita:
+	•	Tanah Subur: Abu vulkanis dari letusan gunung api mengandung banyak unsur hara yang menyuburkan tanaman.
+	•	Kekayaan Mineral: Indonesia kaya akan sumber daya mineral seperti emas, perak, tembaga, minyak bumi, dan gas alam.
+	•	Bahan Bangunan: Pasir dan bebatuan hasil letusan gunung berapi dapat dimanfaatkan sebagai bahan bangunan berkualitas.
+	•	Keanekaragaman Hayati: Indonesia memiliki flora dan fauna yang sangat beragam, termasuk spesies endemik seperti Komodo yang menjadi ikon wisata.
+Kuis
+	•	Sebutkan tiga lempeng besar yang bertemu di wilayah Indonesia!
+	•	Mengapa tanah di sekitar gunung berapi biasanya sangat subur?
+B. Potensi Bencana Alam di Indonesia
+Karena aktivitas tektonik yang intens, Indonesia memiliki potensi bencana geologi yang tinggi:
+	•	Gempa Bumi: Getaran di permukaan bumi akibat tumbukan lempeng atau aktivitas gunung api. Bencana ini sulit diprediksi dan dapat merusak bangunan serta menelan korban jiwa.
+	•	Tsunami: Rangkaian gelombang laut yang bergerak sangat cepat (mencapai 900 km/jam) akibat gempa di dasar laut atau letusan gunung api bawah laut.
+	•	Gunung Meletus (Erupsi): Peristiwa keluarnya magma dari perut bumi karena dorongan gas bertekanan tinggi. Suhu magma bisa mencapai lebih dari 1.000°C.
+C. Langkah Mitigasi Bencana
+Mitigasi adalah upaya untuk mengurangi risiko dan dampak bencana bagi masyarakat. Karena bencana geologi tidak bisa dihindari, kita harus siap menghadapinya.
+Upaya yang Dapat Dilakukan:
+	•	Mengenali Wilayah: Mengetahui apakah tempat tinggal kita berada di jalur gempa atau zona rawan tsunami.
+	•	Simulasi Mandiri: Melakukan latihan penyelamatan diri secara berkala di sekolah dan rumah.
+	•	Konstruksi Bangunan: Membangun rumah yang tahan gempa untuk meminimalkan kerusakan fisik.
+	•	Sistem Peringatan Dini: Mematuhi arahan dari lembaga berwenang (seperti BMKG atau BPBD) saat ada potensi bahaya.
+Info
+BPBD (Badan Penanggulangan Bencana Daerah) adalah lembaga pemerintah yang bertugas menangani penanggulangan bencana di tingkat daerah.
+M2: Memberi Pengalaman Langsung
+Kegiatan 5.1: Analisis Kerawanan Bencana (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok terdiri atas 3—5 orang.
+	•	Eksplorasi: Bukalah peta jalur pegunungan aktif Indonesia (Sirkum Pasifik dan Sirkum Mediterania).
+	•	Diskusi: Identifikasi provinsi mana saja di Indonesia yang memiliki tingkat kerawanan gempa bumi tektonik paling tinggi.
+	•	Aksi: Diskusikan tiga langkah konkret yang dapat kalian lakukan bersama keluarga jika tiba-tiba terjadi gempa saat sedang berada di dalam rumah malam hari.
+	•	Presentasi: Sampaikan hasil diskusi kelompokmu di depan kelas untuk mendapatkan masukan.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Belajar dari Sejarah Pada tahun 2009, Sumatra Barat diguncang gempa hebat yang merusak ratusan ribu rumah dan menelan ribuan korban. Peristiwa ini menjadi pengingat pentingnya kesiapan kita dalam menghadapi kondisi alam Indonesia.
+Pertanyaan Tantangan:
+	•	Menurutmu, mengapa pemahaman mengenai mitigasi bencana harus diajarkan sejak dini di sekolah?
+	•	Bagaimana cara kamu memanfaatkan teknologi digital (seperti media sosial atau aplikasi GPS) untuk membantu proses mitigasi bencana di lingkungan sekitarmu?
+Scan (QR Code)
+Pindai di sini untuk melihat statistik bencana alam di Indonesia dan video tutorial langkah penyelamatan diri saat gempa dan tsunami.
+
+Pelajaran 6: Dasar-Dasar Interaksi Sosial dalam Masyarakat
+M1: Memulai dengan Menantang
+Sebelum berangkat ke sekolah, apakah kamu sudah berpamitan dan mencium tangan orang tuamu?. Atau, apakah kamu sudah menyapa teman-temanmu saat tiba di kelas?. Kegiatan sederhana tersebut merupakan bentuk nyata dari interaksi sosial yang menjadi syarat utama terjadinya berbagai aktivitas dalam kehidupan manusia.
+A. Hakikat Interaksi Sosial
+Manusia adalah makhluk sosial yang sejak lahir sudah terlibat dalam hubungan dengan orang lain. Interaksi sosial merupakan hubungan-hubungan sosial yang dinamis menyangkut hubungan antarperorangan, antara kelompok manusia, maupun antara perorangan dengan kelompok. Interaksi ini menyebabkan pihak-pihak yang terlibat saling memengaruhi satu sama lain.
+Syarat Terjadinya Interaksi Sosial
+Sebuah hubungan dapat dikatakan sebagai interaksi sosial jika memenuhi dua syarat utama:
+	•	Kontak Sosial: Dapat terjadi secara langsung (bertatap muka dan bertukar cerita) maupun tidak langsung melalui media perantara seperti telepon atau media sosial.
+	•	Komunikasi: Proses penyampaian pesan atau ide dari satu pihak ke pihak lain. Komunikasi bisa berbentuk verbal (lisan dan tulisan) maupun nonverbal (gestur tubuh dan bahasa isyarat).
+Kuis
+	•	Apa yang dimaksud dengan interaksi sosial?.
+	•	Sebutkan dua syarat terjadinya interaksi sosial!.
+B. Bentuk-Bentuk Interaksi Sosial
+Interaksi sosial di masyarakat dapat dikelompokkan menjadi dua bentuk besar, yaitu asosiatif dan disosiatif.
+1. Interaksi Sosial Asosiatif (Mengarah pada Persatuan)
+	•	Kerja Sama: Usaha bersama untuk mencapai tujuan yang sama, misalnya gotong royong warga saat kerja bakti di kampung.
+	•	Akomodasi: Upaya untuk meredakan atau menyelesaikan pertentangan guna mencapai keseimbangan, seperti mediasi yang dilakukan ketua RT untuk menyelesaikan perselisihan warga.
+	•	Akulturasi: Perpaduan dua kebudayaan berbeda yang membentuk kebudayaan baru tanpa menghilangkan ciri khas budaya aslinya.
+2. Interaksi Sosial Disosiatif (Mengarah pada Perpecahan)
+	•	Persaingan (Kompetisi): Usaha memperlihatkan keunggulan masing-masing tanpa kekerasan, seperti pertandingan sepak bola.
+	•	Kontravensi: Perasaan tidak suka atau ketidakpercayaan yang disembunyikan terhadap pihak lain.
+	•	Pertentangan (Konflik): Usaha untuk menyingkirkan lawan yang sering kali disertai dengan ancaman atau kekerasan.
+Info
+Candi Borobudur adalah salah satu contoh nyata hasil Akulturasi budaya di Indonesia yang masih berdiri megah hingga saat ini.
+M2: Memberi Pengalaman Langsung
+Kegiatan 6.1: Detektif Interaksi Sosial (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok terdiri atas 3—4 orang.
+	•	Observasi: Amatilah lingkungan sekolahmu selama waktu istirahat.
+	•	Identifikasi: Temukan dan catat minimal 5 aktivitas yang termasuk interaksi sosial.
+	•	Analisis: Masukkan hasil temuanmu ke dalam tabel berikut:
+	•	Aktivitas: (Contoh: Berdiskusi mengerjakan tugas kelompok).
+	•	Bentuk Interaksi: (Contoh: Asosiatif - Kerja Sama).
+	•	Syarat yang Terpenuhi: (Contoh: Kontak langsung dan komunikasi verbal).
+	•	Diskusi: Menurut kelompokmu, bentuk interaksi mana yang paling sering muncul di sekolah? Jelaskan alasannya!.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Interaksi di Era Digital Saat ini, banyak remaja lebih sering berinteraksi melalui media sosial dibandingkan mengobrol langsung. Hal ini terkadang memicu kesalahpahaman karena hilangnya unsur komunikasi nonverbal (seperti nada bicara dan ekspresi wajah) yang ada pada kontak langsung.
+Pertanyaan Tantangan:
+	•	Menurutmu, apakah interaksi melalui kolom komentar di media sosial sudah memenuhi syarat interaksi sosial? Jelaskan!.
+	•	Bagaimana cara menjaga agar interaksi di dunia digital tetap bersifat asosiatif dan tidak menimbulkan konflik atau tawuran antarpelajar?.
+Scan (QR Code)
+Pindai di sini untuk melihat video simulasi tentang perbedaan interaksi sosial asosiatif dan disosiatif dalam kehidupan sehari-hari.
+
+Pelajaran 7: Kegiatan Ekonomi: Produksi, Distribusi, dan Konsumsi
+M1: Memulai dengan Menantang
+Coba perhatikan menu sarapanmu pagi ini. Apakah itu nasi goreng, telur, atau hanya segelas teh hangat? Tahukah kamu bahwa untuk menyajikan menu tersebut, telah terjadi berbagai proses panjang di belakangnya? Itulah yang disebut dengan kegiatan ekonomi.
+A. Hakikat Kegiatan Ekonomi
+Manusia selalu melakukan kegiatan untuk memenuhi kebutuhannya. Hal ini terjadi karena manusia dihadapkan pada situasi kebutuhan yang hampir tidak terbatas, sedangkan alat pemuas kebutuhannya terbatas. Secara umum, kegiatan ekonomi dibagi menjadi tiga bagian utama: Produksi, Distribusi, dan Konsumsi.
+B. Produksi
+Produksi adalah kegiatan untuk menambah manfaat suatu barang atau menciptakan barang baru demi memenuhi kebutuhan manusia. Produksi tidak hanya dilakukan oleh pabrik besar dengan mesin otomatis, tetapi juga mencakup kegiatan sehari-hari seperti menjahit baju atau menanam sayuran.
+1. Jenis Hasil Produksi
+Hasil produksi dibedakan menjadi dua jenis:
+	•	Produksi Barang: Mengubah sifat atau bentuk suatu benda, seperti pembuatan mebel atau roti.
+	•	Produksi Jasa: Menambah nilai guna suatu barang tanpa mengubah bentuknya, seperti jasa pengobatan atau pariwisata.
+2. Faktor-Faktor Produksi
+Proses produksi memerlukan dukungan beberapa faktor agar berjalan maksimal:
+	•	Faktor Alam: Semua hasil alam yang digunakan, seperti air, tanah, dan hasil tambang.
+	•	Faktor Tenaga Kerja: Orang yang menjalankan kegiatan produksi.
+	•	Faktor Modal: Barang penunjang produksi seperti peralatan, mesin, dan gedung.
+	•	Faktor Keahlian: Kemampuan untuk mengelola ketiga faktor lainnya agar menghasilkan produksi yang maksimal.
+Kuis
+	•	Apa tujuan utama dari kegiatan produksi?
+	•	Sebutkan dua contoh faktor produksi alam yang kamu ketahui!
+C. Distribusi
+Distribusi merupakan kegiatan menyalurkan barang dari produsen kepada konsumen. Tanpa distribusi, hasil produksi tidak akan bisa dimanfaatkan oleh masyarakat.
+Cara Penyaluran Distribusi
+	•	Distribusi Langsung: Produsen menjual langsung kepada konsumen (Contoh: Penjahit menyerahkan baju langsung ke pembeli).
+	•	Distribusi Semilangsung: Melalui perantara yang merupakan bagian dari produsen (Contoh: Toko resmi merek ponsel tertentu).
+	•	Distribusi Tidak Langsung: Melalui perantara pihak ketiga seperti agen, minimarket, atau pedagang kecil.
+D. Konsumsi
+Konsumsi adalah kegiatan menghabiskan atau mengurangi manfaat suatu barang untuk memenuhi kebutuhan. Tujuan utamanya adalah untuk menjaga kelangsungan hidup manusia.
+Faktor yang Memengaruhi Konsumsi
+	•	Faktor Internal: Berasal dari dalam diri seperti motivasi, sikap, dan selera.
+	•	Faktor Eksternal: Berasal dari luar diri seperti jenis pekerjaan, harga barang, dan kebudayaan.
+Info
+Kemakmuran adalah keadaan ketika jumlah alat pemuas kebutuhan sudah mencukupi dan dapat digunakan untuk memenuhi semua kebutuhan manusia.
+M2: Memberi Pengalaman Langsung
+Kegiatan 7.1: Observasi Kantin Sekolah (Individu)
+	•	Langkah Kerja: Pergilah ke kantin sekolahmu saat jam istirahat.
+	•	Identifikasi: Amatilah satu jenis makanan yang dijual (misal: nasi uduk atau gorengan).
+	•	Analisis: Tuliskan dalam tabel:
+	•	Kegiatan Produksi: Siapa yang membuat makanan tersebut? Apa saja bahan bakunya?
+	•	Kegiatan Distribusi: Bagaimana makanan tersebut sampai ke kantin? Apakah dijual langsung oleh pembuatnya?
+	•	Kegiatan Konsumsi: Mengapa teman-temanmu membeli makanan tersebut?
+	•	Kesimpulan: Jelaskan hubungan antara pembuat, penjual, dan pembeli tersebut dalam satu rantai ekonomi!
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Belanja Bijak di Era Digital Saat ini, aplikasi belanja online memberikan kemudahan luar biasa dengan berbagai diskon dan promo menarik. Namun, kemudahan ini sering kali membuat kita menjadi "gelap mata" dan membeli barang yang sebenarnya tidak kita butuhkan.
+Pertanyaan Tantangan:
+	•	Menurutmu, belanja barang hanya karena sedang diskon termasuk faktor konsumsi internal atau eksternal? Jelaskan!
+	•	Bagaimana cara kamu menerapkan literasi keuangan agar tidak terjebak dalam perilaku konsumtif yang berlebihan?
+Scan (QR Code)
+Pindai di sini untuk melihat video animasi tentang alur distribusi barang dari pelabuhan hingga sampai ke toko di dekat rumahmu.
+
+Rangkuman
+	•	Lokasi adalah letak suatu objek di permukaan bumi.
+	•	Lokasi Absolut: Letak yang tetap terhadap sistem koordinat garis lintang dan bujur. Indonesia terletak secara absolut pada 6°LU—11°LS dan 95°BT—141°BT.
+	•	Lokasi Relatif: Letak suatu tempat yang dapat berubah-ubah sesuai keadaan sekitarnya dan memengaruhi nilai ekonomi suatu objek (contoh: harga tanah dekat jalan raya lebih mahal).
+	•	Indonesia memiliki keragaman bentuk muka bumi, seperti dataran rendah, dataran tinggi, pegunungan, dan wilayah pesisir.
+	•	Karakteristik fisik ini menentukan potensi wilayah serta memengaruhi perbedaan mata pencaharian penduduk di setiap daerah.
+	•	Interaksi antarruang terjadi karena setiap wilayah memiliki perbedaan potensi sumber daya.
+	•	Syarat interaksi: Adanya kondisi Saling Melengkapi (regional complementarity) antara wilayah surplus dan minus sumber daya, serta adanya Kesempatan Berintervensi (intervening opportunity) berupa lokasi alternatif yang lebih baik atau lebih dekat.
+	•	Cuaca adalah kondisi udara sesaat di wilayah sempit, sedangkan Iklim adalah kondisi cuaca rata-rata tahunan di wilayah yang luas.
+	•	Indonesia beriklim tropis dengan dua musim: hujan dan kemarau.
+	•	Perubahan iklim berdampak signifikan pada bidang ekonomi (seperti gagal panen akibat banjir) dan sosial budaya (kesulitan nelayan mencari ikan).
+	•	Secara geologis, Indonesia berada di pertemuan tiga lempeng besar: Eurasia, Indo-Australia, dan Pasifik, sehingga rawan gempa bumi, tsunami, dan gunung meletus.
+	•	Dampak positif letak geologis ini adalah tanah yang subur karena abu vulkanis serta kekayaan sumber daya mineral.
+	•	Mitigasi merupakan upaya untuk mengurangi risiko dan dampak bencana bagi masyarakat.
+
+	•	Interaksi sosial adalah hubungan sosial dinamis antarperorangan atau kelompok yang saling memengaruhi.
+	•	Syarat utama interaksi sosial adalah kontak sosial dan komunikasi.
+	•	Bentuk interaksi: Terdiri atas Asosiatif (mengarah pada persatuan, seperti kerja sama dan akulturasi) serta Disosiatif (mengarah pada perpecahan, seperti persaingan dan konflik).
+	•	Produksi: Kegiatan menciptakan atau menambah manfaat suatu barang/jasa untuk memenuhi kebutuhan.
+	•	Distribusi: Kegiatan menyalurkan barang dari produsen agar sampai ke tangan konsumen secara maksimal.
+	•	Konsumsi: Kegiatan menggunakan, mengurangi, atau menghabiskan manfaat suatu barang untuk menjaga kelangsungan hidup.
+
+
+Uji Capaian Pembelajaran Tema 1
+A. Pilihlah satu jawaban yang benar!
+	•	Lokasi suatu tempat yang didasarkan pada garis lintang dan garis bujur disebut lokasi absolut. Secara astronomis, Indonesia terletak pada titik koordinat .... 
+a. 6°LU—11°LS dan 95°BT—141°BT 
+b. 11°LU—6°LS dan 141°BT—95°BT 
+c. 95°LU—141°LS dan 6°BT—11°BT 
+d. 6°LS—11°LU dan 95°BB—141°BT
+	•	Harga tanah di sekitar Ibu Kota Nusantara (IKN) melonjak tajam setelah adanya keputusan pemindahan ibu kota. Hal ini menunjukkan bahwa nilai suatu lahan sangat dipengaruhi oleh lokasi .... 
+a. Astronomis 
+b. Absolut 
+c. Relatif 
+d. Geologis
+	•	Setiap wilayah memiliki karakteristik yang unik, seperti daerah pesisir yang menghasilkan ikan dan dataran tinggi yang menghasilkan sayuran. Hubungan timbal balik ini disebut .... 
+a. Lokasi absolut 
+b. Konektivitas antarruang 
+c. Perubahan iklim 
+d. Mitigasi bencana
+	•	Interaksi antarwilayah A dan B dapat melemah apabila terdapat wilayah C yang menawarkan alternatif kebutuhan yang sama dengan jarak lebih dekat. Faktor ini disebut .... 
+a. Saling melengkapi 
+b. Kemudahan pemindahan 
+c. Kesempatan berintervensi 
+d. Perbedaan garis bujur
+	•	Kondisi rata-rata udara pada saat tertentu di wilayah yang relatif sempit dan dalam waktu singkat disebut .... 
+a. Iklim 
+b. Musim 
+c. Cuaca 
+d. Topografi
+	•	Tindakan yang paling tepat dilakukan sebagai langkah mitigasi saat terjadi gempa bumi adalah .... 
+a. Berlari menuju pantai untuk melihat air laut 
+b. Berlindung di bawah meja yang kuat jika berada di dalam ruangan 
+c. Masuk ke dalam lift agar cepat sampai ke lantai bawah 
+d. Tetap diam di tempat tanpa melakukan gerakan apa pun
+	•	Indonesia berada di titik pertemuan lempeng Eurasia, Indo-Australia, dan Pasifik. Salah satu dampak positif dari letak geologis ini adalah .... 
+a. Tanah menjadi subur karena abu vulkanis 
+b. Sering terjadi badai tropis 
+c. Memiliki empat musim yang stabil 
+d. Terhindar dari risiko tsunami
+	•	Aktivitas manusia untuk menambah manfaat suatu barang atau menciptakan barang baru demi memenuhi kebutuhan disebut .... 
+a. Distribusi 
+b. Konsumsi 
+c. Produksi 
+d. Sosialisasi
+	•	Interaksi sosial dapat terjadi jika memenuhi dua syarat utama, yaitu .... 
+a. Kontak sosial dan komunikasi 
+b. Persaingan dan pertentangan 
+c. Individu dan kelompok 
+d. Uang dan pasar
+	•	Kegiatan menyalurkan hasil produksi dari produsen kepada konsumen agar dapat dimanfaatkan masyarakat disebut .... 
+a. Produksi 
+b. Distribusi 
+c. Konsumsi 
+d. Akulturasi
+B. Jawablah pertanyaan-pertanyaan berikut dengan tepat.
+	•	Garis khayal horizontal yang mengukur sudut suatu titik dengan garis khatulistiwa dan digunakan untuk membagi wilayah iklim disebut garis lintang.
+	•	Karena terletak di wilayah beriklim tropis, Indonesia secara umum memiliki dua musim, yaitu musim hujan dan musim kemarau.
+	•	Rangkaian gelombang laut yang mampu menjalar dengan kecepatan tinggi akibat gangguan di dasar laut, seperti gempa bumi, disebut tsunami.
+	•	Berpadunya dua kebudayaan berbeda menjadi satu kebudayaan baru tanpa menghilangkan ciri khas budaya aslinya disebut akulturasi.
+	•	Faktor produksi yang mencakup semua hasil alam untuk digunakan dalam proses produksi disebut faktor alam.
+C. Soal AKM (Asesmen Kompetensi Minimum)
+Stimulus 1: Analisis Lokasi IKN "Harga tanah di Kabupaten Penajam Paser Utara, Kalimantan Timur, melonjak lima hingga sepuluh kali lipat sejak 2019 setelah pemerintah memutuskan memindahkan Ibu Kota Negara (IKN) ke wilayah tersebut. Masyarakat menjawab harga tanah kini mencapai Rp1 miliar per hektare, padahal sebelumnya hanya Rp100 juta—Rp200 juta per hektare.".
+	•	Berdasarkan teks tersebut, tentukan Benar atau Salah pernyataan berikut!
+	•	( ) Kenaikan harga tanah di IKN merupakan pengaruh dari lokasi absolut wilayah tersebut. (Salah)
+	•	( ) Lokasi relatif suatu tempat dapat berubah nilainya tergantung pada kondisi lingkungan atau kebijakan di sekitarnya. (Benar)
+Stimulus 2: Konektivitas Wilayah Perhatikan skema interaksi antarwilayah: Wilayah A (Surplus sayuran, Minus ikan) berinteraksi dengan Wilayah B (Surplus ikan, Minus sayuran). Namun, muncul Wilayah C yang lebih dekat dengan Wilayah A dan memiliki surplus ikan.
+	•	Apa dampak keberadaan Wilayah C terhadap hubungan antara Wilayah A dan Wilayah B? Hubungan antara Wilayah A dan Wilayah B akan melemah karena Wilayah A memiliki alternatif Wilayah C sebagai tempat tujuan yang lebih baik (kesempatan berintervensi).
+Stimulus 3: Perubahan Iklim dan Produksi "Hujan dengan intensitas tinggi dan waktu lama dapat membuat lahan yang ditanami sayuran mengalami banjir sehingga petani gagal panen".
+	•	Berdasarkan pernyataan tersebut, perubahan iklim memberikan dampak negatif secara langsung pada bidang .... a. Perhubungan b. Ekonomi c. Kesehatan d. Sosial Budaya
+Stimulus 4: Mitigasi Bencana Indonesia memiliki 127 gunung api aktif karena berada di jalur pegunungan aktif yang membentang dari Sumatra hingga Halmahera. Kondisi ini menuntut masyarakat memiliki kesadaran akan mitigasi.
+	•	Sebutkan dua langkah preventif yang dapat dilakukan masyarakat untuk mengurangi risiko bencana gempa bumi di lingkungan sekolah! (Jawaban mengacu pada: Melakukan simulasi penyelamatan diri secara berkala dan memahami jalur evakuasi di gedung sekolah).
+Stimulus 5: Rantai Kegiatan Ekonomi (1) Petani memanen padi di sawah. (2) Sopir truk mengangkut beras ke pasar kota. (3) Siswa membeli nasi bungkus di kantin sekolah untuk makan siang.
+	•	Pasangkanlah urutan aktivitas tersebut dengan jenis kegiatan ekonomi yang tepat!
+	•	Aktivitas (1) --> Produksi
+	•	Aktivitas (2) --> Distribusi
+	•	Aktivitas (3) --> Konsumsi
+
+Kunci jawaban untuk paket soal Uji Capaian Pembelajaran Tema I: Kehidupan Sosial dan Kondisi Lingkungan Sekitar yang telah disusun sebelumnya, lengkap dengan rujukan pada sumber materi.
+A. Kunci Jawaban Pilihan Ganda
+	•	a. 6°LU—11°LS dan 95°BT—141°BT (Berdasarkan konsep lokasi absolut Indonesia terhadap sistem koordinat garis lintang dan bujur).
+	•	c. Relatif (Nilai suatu lahan di IKN berubah karena perubahan kondisi kebijakan dan keadaan sekitarnya, bukan koordinatnya).
+	•	b. Konektivitas antarruang (Peristiwa saling memengaruhi antarwilayah karena perbedaan potensi dan kebutuhan).
+	•	c. Kesempatan berintervensi (Adanya lokasi alternatif yang lebih baik atau dekat sehingga melemahkan interaksi wilayah asal).
+	•	c. Cuaca (Kondisi udara pada saat tertentu, wilayah sempit, dan waktu singkat).
+	•	b. Berlindung di bawah meja yang kuat jika berada di dalam ruangan (Merupakan langkah mitigasi yang tepat untuk mengurangi risiko cedera saat gempa).
+	•	a. Tanah menjadi subur karena abu vulkanis (Dampak positif pertemuan lempeng tektonik yang menghasilkan aktivitas gunung api).
+	•	c. Produksi (Kegiatan menambah manfaat suatu barang atau menciptakan barang baru).
+	•	a. Kontak sosial dan komunikasi (Dua syarat utama agar suatu hubungan dinamis dapat dikategorikan sebagai interaksi sosial).
+	•	b. Distribusi (Kegiatan menyalurkan barang dari produsen ke konsumen).
+B. Kunci Jawaban Isian Singkat
+	•	Lintang (Garis khayal horizontal yang membagi wilayah iklim dunia).
+	•	Kemarau (Salah satu dari dua musim utama di Indonesia sebagai wilayah tropis).
+	•	Tsunami (Rangkaian gelombang laut cepat akibat gangguan di dasar laut).
+	•	Akulturasi (Berpadunya dua budaya berbeda menjadi budaya baru tanpa menghilangkan ciri aslinya).
+	•	Alam (Faktor produksi yang mencakup semua hasil dari alam untuk proses produksi).
+C. Kunci Jawaban Soal AKM
+	•	Analisis Lokasi IKN:
+	•	Pernyataan 1: Salah (Kenaikan harga dipengaruhi lokasi relatif, bukan absolut/koordinat).
+	•	Pernyataan 2: Benar (Lokasi relatif memang berubah nilainya tergantung kondisi sekitar).
+	•	Konektivitas Wilayah:
+	•	Hubungan antara Wilayah A dan Wilayah B akan melemah karena keberadaan Wilayah C memberikan alternatif yang lebih baik atau dekat (Faktor Kesempatan Berintervensi).
+	•	Perubahan Iklim dan Produksi:
+	•	b. Ekonomi (Banjir yang menyebabkan gagal panen secara langsung merugikan pendapatan dan produksi petani).
+	•	Mitigasi Bencana:
+	•	Langkah preventif di sekolah meliputi: Melakukan simulasi penyelamatan diri secara berkala dan memahami serta menandai jalur evakuasi di gedung sekolah.
+	•	Rantai Kegiatan Ekonomi:
+	•	Aktivitas (1) Memanen padi -> Produksi (Menciptakan/menambah nilai barang).
+	•	Aktivitas (2) Mengangkut beras -> Distribusi (Menyalurkan barang).
+	•	Aktivitas (3) Membeli di kantin -> Konsumsi (Menggunakan/menghabiskan nilai barang).
+
+Tema II: Keberagaman Lingkungan Sekitar
+Tujuan Pembelajaran: Setelah mempelajari tema ini, siswa diharapkan mampu:
+	•	Menjelaskan dinamika sosial dan perubahan sosial budaya di masyarakat.
+	•	Menelusuri kehidupan manusia zaman Praaksara dari aspek sosial-ekonomi.
+	•	Membandingkan fenomena lingkungan sebagai proses geografis di berbagai lokasi.
+	•	Menganalisis perubahan karakteristik lokasi berdasarkan aspek fisik dan penduduk.
+	•	Mengidentifikasi masalah pokok ekonomi terkait kelangkaan dan kebutuhan.
+Pelajaran 1: Berkenalan dengan Alam (Sejarah Pembentukan Bumi)
+M1: Memulai dengan Menantang
+Pernahkah terlintas dalam pikiranmu, kapankah alam yang kita pijak ini terbentuk?. Apakah sejak awal bumi sudah memiliki hamparan hutan hijau dan udara yang segar seperti sekarang? Ternyata, bumi yang kita huni merupakan hasil dari proses penyempurnaan yang sangat lama melalui berbagai fenomena alam pada setiap zamannya.
+A. Pembabakan Zaman Geologis
+Para ilmuwan mengidentifikasi bahwa umur bumi saat ini kurang lebih sudah mencapai 2,5 miliar tahun. Berdasarkan temuan-temuan geologis, sejarah perkembangan bumi dibagi menjadi empat zaman utama:
+	•	Zaman Arkaekum Berlangsung sekitar 2,5 miliar tahun lalu. Pada masa awal pembentukan ini, kondisi bumi belum stabil dan bersuhu sangat panas. Karena kondisi ekstrem tersebut, disimpulkan bahwa pada zaman ini belum ada tanda-tanda kehidupan.
+	•	Zaman Paleozoikum Berlangsung sekitar 340 juta tahun lalu. Pada masa ini, suhu bumi mulai menurun dan tanda-tanda kehidupan makhluk hidup mulai muncul.
+	•	Zaman Mesozoikum Berlangsung sekitar 140 juta tahun lalu. Zaman ini ditandai dengan munculnya jenis burung dan mamalia. Pada masa ini pula, reptil besar seperti dinosaurus hidup sebelum akhirnya mengalami kepunahan akibat proses seleksi alam.
+	•	Zaman Neozoikum Zaman ini terbagi menjadi dua masa penting:
+	•	Zaman Tersier: Berlangsung sekitar 60 juta tahun lalu, ditandai dengan berkembangnya jenis hewan menyusui (mamalia).
+	•	Zaman Kuarter: Masa yang dianggap paling penting karena mulai terdapat tanda-tanda kehidupan manusia dan menjadi awal kemunculan aktivitas manusia di bumi.
+Kuis
+	•	Mengapa pada zaman Arkaekum belum ditemukan tanda-tanda kehidupan?.
+	•	Sebutkan pembagian zaman pada masa Neozoikum beserta karakteristik utamanya!.
+B. Alam sebagai Penunjang Kehidupan
+Alam senantiasa menyediakan bahan-bahan yang diolah manusia untuk memenuhi kebutuhan dasar:
+	•	Pangan: Nasi, jagung, dan umbi-umbian dihasilkan langsung dari alam.
+	•	Sandang: Pakaian yang kita kenakan berasal dari tanaman kapas yang diolah.
+	•	Papan: Bahan bangunan seperti kayu dan pasir diambil dari sumber daya alam.
+Namun, interaksi manusia dengan alam juga dapat menimbulkan dampak negatif jika tidak dikelola dengan bijak, seperti munculnya pencemaran lingkungan yang mengancam kelestarian bumi.
+M2: Memberi Pengalaman Langsung
+Kegiatan 1.1: Membuat Garis Waktu Geologis (Individu)
+	•	Langkah Kerja: Siapkan selembar kertas gambar dan alat tulis warna.
+	•	Visualisasi: Buatlah sebuah garis waktu (timeline) yang menggambarkan urutan empat zaman geologis (Arkaekum, Paleozoikum, Mesozoikum, dan Neozoikum).
+	•	Kreativitas: Berikan ilustrasi sederhana atau ciri khas pada setiap zaman (contoh: gambar gunung berapi untuk Arkaekum atau gambar dinosaurus untuk Mesozoikum).
+	•	Analisis: Berdasarkan garis waktu yang kamu buat, zaman manakah yang memiliki durasi paling lama? Mengapa zaman Kuarter disebut sebagai zaman terpenting bagi kita?.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Pentingnya Menjaga "Rumah" Kita Memahami sejarah bumi membantu kita menyadari bahwa alam butuh miliaran tahun untuk menjadi tempat yang stabil bagi manusia. Saat ini, bumi menghadapi tantangan besar berupa pemanasan global akibat perilaku manusia. Menjaga alam bukan sekadar kewajiban, melainkan bentuk rasa syukur kita karena telah diberikan kesempatan hidup di muka bumi yang sudah "matang" ini.
+Pertanyaan Tantangan:
+	•	Apa yang akan terjadi pada kehidupan manusia jika kita tidak memedulikan kelestarian alam yang sudah terbentuk selama miliaran tahun ini?.
+	•	Sebagai pelajar, aksi nyata apa yang bisa kamu lakukan untuk menghargai sumber daya alam yang dihasilkan oleh proses bumi yang sangat panjang?.
+Scan (QR Code)
+Pindai di sini untuk menyimak video "Pembagian Zaman Prasejarah Menurut Ilmu Geologi" di kanal YouTube Edukasi Kreatif untuk memperdalam pemahamanmu melalui visualisasi yang menarik!.
+
+Pelajaran 2: Pencemaran Lingkungan dan Dampaknya bagi Manusia
+M1: Memulai dengan Menantang
+Pernahkah kamu melihat langit kota yang tampak abu-abu pekat meskipun matahari bersinar terik? Atau melihat sungai yang penuh dengan busa dan sampah plastik? Fenomena ini bukan sekadar pemandangan buruk, melainkan tanda bahwa lingkungan kita sedang sakit akibat pencemaran. Bagaimana aktivitas sehari-hari kita bisa menjadi ancaman bagi kesehatan dan masa depan bumi?.
+A. Pencemaran Udara dan Efek Rumah Kaca
+Pencemaran udara umumnya terjadi karena emisi gas yang dihasilkan selama proses pembakaran, seperti asap kendaraan bermotor dan industri. Pembakaran ini menghasilkan gas karbon dioksida (CO2) yang berlebih di atmosfer.
+	•	Penyebab: Karakteristik CO2 yang menumpuk di atmosfer dapat ditembus panas matahari namun sulit memantulkannya kembali ke luar angkasa. Fenomena ini disebut efek rumah kaca, yang menyebabkan suhu permukaan bumi naik atau pemanasan global.
+	•	Dampak bagi Manusia: Partikel polutan seperti COx, SOx, NOx, dan Ox dapat menyebabkan penyakit pernapasan serius seperti asma dan bronkitis. Polusi udara juga mengganggu jarak pandang pengemudi yang rentan memicu kecelakaan, serta mempercepat kerusakan material bangunan akibat korosi.
+B. Pencemaran Air dan Gangguan Ekosistem
+Air memiliki peran vital untuk memasak, mencuci, dan mandi, namun konsentrasi zat berbahaya yang berlangsung lama dapat merusak kualitasnya.
+	•	Penyebab: Pembuangan limbah industri ke sungai/laut, limbah rumah tangga, hingga penggunaan bahan peledak dalam menangkap ikan.
+	•	Dampak bagi Lingkungan: Terjadi eutrofikasi atau ledakan populasi alga (blooming algae) yang menutupi permukaan air. Hal ini menghambat sinar matahari masuk ke dalam air sehingga mengganggu fotosintesis fitoplankton dan menurunkan kadar oksigen, yang mengancam nyawa makhluk air.
+	•	Dampak bagi Manusia: Air sumur warga bisa tercemar oleh rembesan tangki septik atau limbah pabrik sehingga tidak layak minum. Lebih berbahaya lagi, mengonsumsi ikan yang hidup di perairan beracun dapat menyebabkan kerusakan saraf, kanker, hingga kemandulan pada manusia.
+C. Pencemaran Tanah dan Ketahanan Pangan
+Perilaku membuang sampah sembarangan dan penggunaan bahan kimia di sektor pertanian menjadi pemicu utama rusaknya lapisan tanah.
+	•	Penyebab: Sampah plastik yang sulit terurai menumpuk di tanah, serta penggunaan pestisida berlebihan. Tercatat sekitar 80% pestisida yang disemprotkan justru jatuh ke tanah dan bukan mengenai hama sasaran.
+	•	Dampak: Tanah kehilangan unsur hara, menjadi tidak produktif, dan mengancam ketahanan pangan nasional. Secara kesehatan, zat pestisida dan herbisida bersifat karsinogenik yang dapat merusak organ otak dan ginjal manusia.
+Kuis
+	•	Jelaskan bagaimana proses terjadinya efek rumah kaca yang memicu pemanasan global!
+	•	Mengapa fenomena blooming algae dianggap berbahaya bagi kelangsungan hidup ikan di sungai?
+M2: Memberi Pengalaman Langsung
+Kegiatan 2.1: Buku Harian Lingkungan (Individu)
+	•	Identifikasi: Amatilah aktivitas di rumahmu yang berpotensi menghasilkan pencemaran air, udara, atau tanah.
+	•	Catatan: Buatlah catatan dalam buku tugas mengenai:
+	•	Jenis sampah yang paling banyak dihasilkan keluargamu setiap hari.
+	•	Ke mana aliran air bekas cucian piring atau pakaian di rumahmu bermuara?.
+	•	Analisis: Tuliskan pendapatmu mengenai pembiasaan diri yang bisa dilakukan untuk mengurangi polutan tersebut agar tidak merusak lingkungan sekitar.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Kebijakan WFH akibat Polusi Kualitas udara yang buruk bukan lagi ancaman masa depan, tapi sudah terjadi. Pada Agustus 2023, Pemerintah DKI Jakarta sempat memberlakukan ketentuan bekerja dari rumah (WFH) bagi pegawainya karena pekatnya polusi udara yang mengkhawatirkan. Ini adalah bukti nyata bahwa perilaku manusia yang tidak peduli pada alam akan kembali merugikan aktivitas sosial dan ekonomi kita sendiri.
+Scan (QR Code)
+Pindai di sini untuk melihat video dokumenter mengenai dampak pencemaran limbah industri terhadap kesehatan masyarakat pesisir di Indonesia.
+
+Pelajaran 3: Upaya Pelestarian Sumber Daya Udara, Air, dan Tanah
+M1: Memulai dengan Menantang
+Bayangkan jika suatu saat nanti kita harus membeli udara bersih dalam kemasan atau kesulitan menemukan air yang layak untuk sekadar mandi. Mengerikan, bukan? Alam memiliki batas kemampuan untuk pulih, dan jika kita terus merusaknya tanpa upaya pelestarian, masa depan tersebut bisa menjadi kenyataan. Apa yang bisa kita lakukan hari ini agar "rumah" kita tetap layak huni bagi generasi mendatang?
+A. Pembiasaan Melestarikan Sumber Daya Udara
+Udara yang bersih adalah hak setiap makhluk hidup. Namun, emisi karbon dari bahan bakar fosil telah membuat kualitas udara menurun dan memicu pemanasan global.
+	•	Langkah Pemerintah: Mendorong transisi ke kendaraan ramah lingkungan berbasis listrik atau gas serta melakukan pengendalian emisi buang kendaraan pribadi.
+	•	Peran Pohon: Menanam pohon adalah langkah vital karena pohon memproduksi oksigen yang mampu menyaring polutan di udara.
+	•	Aksi Nyata Pelajar:
+	•	Mengurangi polusi dengan tidak merokok dan tidak membakar sampah.
+	•	Menanam pohon di lingkungan rumah dan sekolah.
+	•	Memprioritaskan penggunaan transportasi umum atau bersepeda saat bepergian.
+B. Pembiasaan Melestarikan Sumber Daya Air
+Air merupakan sumber kehidupan yang harus dijaga keberadaannya agar tetap bersih dan melimpah.
+	•	Manajemen Air: Upaya pelestarian dilakukan dengan menjaga siklus hidrologi, seperti membuat sumur resapan untuk menyimpan air hujan ke dalam tanah.
+	•	Program Lingkungan: Melaksanakan Program Kali Bersih dan merawat pintu-pintu air guna mencegah pendangkalan dan banjir.
+	•	Aksi Nyata Pelajar:
+	•	Disiplin membuang sampah pada tempatnya agar tidak menyumbat saluran air.
+	•	Tidak membuang bahan kimia beracun (seperti sisa cat atau pelarut) ke selokan.
+	•	Menggunakan sabun atau detergen ramah lingkungan saat mencuci.
+C. Pembiasaan Melestarikan Sumber Daya Tanah
+Tanah yang sehat adalah kunci ketahanan pangan. Penggunaan bahan kimia berlebihan di masa lalu telah membuat banyak lahan menjadi tidak produktif.
+	•	Pemulihan Tanah: Pelestarian dilakukan dengan mengganti pupuk kimia dengan pupuk organik yang lebih aman bagi ekosistem tanah.
+	•	Bioremediasi: Proses pembersihan tanah yang tercemar dengan memanfaatkan mikroorganisme seperti jamur atau bakteri untuk mengurai zat beracun.
+	•	Aksi Nyata Pelajar:
+	•	Mengurangi penggunaan plastik sekali pakai dengan membawa botol minum sendiri.
+	•	Menerapkan berkebun secara organik di pekarangan sekolah.
+	•	Melakukan pemilahan sampah organik dan anorganik secara konsisten.
+Info
+Pelestarian Lingkungan Hidup adalah upaya menjaga kondisi lingkungan agar tetap seimbang dengan meningkatkan daya dukungnya secara berkesinambungan.
+Kuis
+	•	Mengapa penanaman pohon sangat penting bagi pelestarian udara?
+	•	Apa yang dimaksud dengan teknik bioremediasi pada tanah?
+M2: Memberi Pengalaman Langsung
+Kegiatan 3.1: Rencana Aksi Hijau Keluarga (Individu)
+	•	Observasi: Amatilah tiga kebiasaan di rumahmu yang masih berpotensi merusak lingkungan (misal: membuang sampah plastik atau membuang air bekas cucian langsung ke tanah).
+	•	Solusi: Berdasarkan materi yang telah dipelajari, berikan satu solusi konkret untuk setiap kebiasaan tersebut.
+	•	Aksi: Terapkan rencana tersebut bersama keluargamu selama satu minggu dan catat perubahan yang kamu rasakan dalam buku harian lingkungan milikmu.
+M3: Mengakhiri dengan Berkesan
+Pelestarian lingkungan bukan sekadar tugas pemerintah, melainkan tanggung jawab kita sebagai manusia yang menumpang hidup di bumi. Satu langkah kecil yang kamu lakukan hari ini—seperti memilah sampah atau bersepeda ke sekolah—adalah investasi untuk masa depan yang lebih hijau. Mari bertindak sebelum terlambat!.
+Scan (QR Code)
+Pindai di sini untuk melihat video tutorial pembuatan sumur resapan sederhana dan cara mengolah kompos organik dari sampah dapur rumah tangga.
+
+Pelajaran 4: Mengenal Masyarakat Zaman Praaksara
+M1: Memulai dengan Menantang
+Bayangkan jika kamu hidup di masa ketika tidak ada buku, internet, bahkan tulisan untuk berkomunikasi. Bagaimana cara kamu memberi tahu temanmu letak pohon buah yang matang atau memperingatkan mereka tentang bahaya binatang buas? Manusia zaman Praaksara menggunakan akal mereka untuk menciptakan teknologi dari alam guna bertahan hidup dan terus berkembang menjadi lebih baik.
+A. Masa Berburu dan Mengumpulkan Makanan
+Awal kehidupan manusia ditandai dengan ketergantungan yang sangat tinggi terhadap alam.
+	•	Tingkat Sederhana (Paleolitikum):
+	•	Aktivitas: Manusia hidup berkelompok dan berpindah-pindah (nomaden) mengikuti ketersediaan makanan dan air. Mereka berburu hewan seperti rusa dan kerbau, serta mengumpulkan umbi-umbian.
+	•	Teknologi: Alat-alat masih bersifat kasar, terbuat dari batu, tulang, dan kayu. Contoh peninggalannya adalah kapak genggam dan kapak perimbas.
+	•	Penemuan Api: Api menjadi penemuan vital untuk meramu makanan, menghangatkan tubuh, dan mengusir binatang buas.
+	•	Tingkat Lanjut (Mesolitikum):
+	•	Hunian: Mulai menetap lebih lama di gua-gua (abris sous roche) atau cerukan di tepi pantai.
+	•	Jejak Kehidupan: Ditemukannya tumpukan sampah dapur berupa kulit kerang yang membukit, yang disebut kjokkenmoddinger.
+	•	Seni: Mulai mengenal seni lukis yang ditemukan pada dinding-dinding gua.
+Kuis
+	•	Mengapa manusia pada masa Paleolitikum hidup berpindah-pindah?
+	•	Apa yang dimaksud dengan kjokkenmoddinger?
+B. Masa Bercocok Tanam (Neolitikum)
+Masa ini merupakan revolusi terpenting dalam sejarah manusia karena terjadi peralihan dari food gathering (mengumpulkan makanan) menjadi food producing (menghasilkan makanan).
+	•	Pola Hidup: Manusia mulai hidup menetap di perkampungan dan mengatur pembagian kerja secara adil.
+	•	Teknologi: Alat batu sudah diasah halus, seperti beliung persegi dan kapak lonjong. Mereka juga mulai membuat gerabah dan perhiasan dari batu atau kulit kerang.
+	•	Gotong Royong: Muncul tradisi gotong royong dalam membuka lahan, membangun rumah, dan upacara penghormatan kepada leluhur.
+C. Masa Perundagian (Zaman Logam)
+Masa ini merupakan akhir dari masa Praaksara, di mana masyarakat sudah memiliki keterampilan khusus atau undagi.
+	•	Keahlian Teknik: Manusia sudah mengenal teknik peleburan dan pencetakan logam (emas, tembaga, perunggu) untuk membuat perhiasan dan alat rumah tangga.
+	•	Sistem Ekonomi: Perdagangan mulai berkembang melalui sistem barter atau tukar-menukar barang. Perahu bercadik berperan besar dalam menghubungkan satu daerah dengan daerah lain melalui jalur laut.
+	•	Sosial: Pembagian kerja semakin ketat berdasarkan keahlian masing-masing individu.
+M2: Memberi Pengalaman Langsung
+Kegiatan 4.1: Analisis Perkembangan Teknologi (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok terdiri atas 5—6 orang.
+	•	Tugas: Lengkapilah tabel perbandingan berikut berdasarkan pemahamanmu:
+	•	Zaman Paleolitikum: (Contoh alat: Kapak genggam kasar; Cara hidup: Berpindah-pindah).
+	•	Zaman Neolitikum: (Contoh alat: Beliung persegi halus; Cara hidup: Menetap/Bertani).
+	•	Zaman Logam: (Contoh alat: Nekara perunggu; Cara hidup: Menetap di desa/Barter).
+	•	Kesimpulan: Diskusikan mengapa penggunaan logam dianggap sebagai kemajuan besar dibandingkan alat-alat dari batu!
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Warisan Masa Lalu Meskipun kita sudah hidup di era digital, nilai-nilai dari zaman Praaksara seperti gotong royong dan penghormatan kepada orang tua tetap lestari hingga saat ini. Teknologi yang kita nikmati sekarang adalah hasil inovasi akal manusia yang sudah dimulai sejak jutaan tahun lalu.
+Pertanyaan Tantangan:
+	•	Pada masa berburu, perempuan bertugas mengumpulkan makanan di sekitar tempat tinggal. Bagaimana pembagian peran gender ini jika dibandingkan dengan dunia kerja saat ini?
+	•	Bagaimana cara kita menghargai peninggalan purbakala yang ditemukan di sekitar kita agar tidak rusak oleh tangan jahil?
+Scan (QR Code)
+Pindai di sini untuk melihat video animasi "Pembagian Zaman Prasejarah Menurut Ilmu Geologi" guna memperdalam visualisasimu tentang kehidupan manusia purba.
+
+Pelajaran 5: Pembangunan Berkelanjutan dan Pilar-pilar SDGs
+M1: Memulai dengan Menantang
+Tahukah kamu bahwa apa yang kita konsumsi hari ini dapat memengaruhi kehidupan cucu kita di masa depan?. Bayangkan jika semua hutan ditebang dan air bersih habis hanya untuk memenuhi kebutuhan saat ini; apa yang tersisa untuk generasi mendatang?. Inilah pentingnya kita memahami cara mengelola alam secara bertanggung jawab agar kehidupan di bumi tetap berlanjut. 
+A. Hakikat Pembangunan Berkelanjutan
+Pembangunan berkelanjutan adalah upaya untuk memenuhi kebutuhan masa kini dengan meminimalkan dampak buruk terhadap lingkungan, sehingga sumber daya alam tetap terjaga untuk menopang kehidupan generasi mendatang.
+Konsep ini mulai menjadi perhatian dunia secara luas sejak lahirnya Deklarasi Sustainable Development Goals (SDGs) pada tahun 2015. Deklarasi ini merupakan kesepakatan antarnegara untuk menjaga kualitas kehidupan secara global.
+B. Karakteristik Pembangunan Berkelanjutan
+Pembangunan berkelanjutan memiliki ciri khas yang membedakannya dengan pembangunan biasa, antara lain:
+	•	Dampak Kesehatan & Lingkungan: Setiap tindakan harus memperkirakan pengaruhnya terhadap kelestarian alam.
+	•	Perilaku Mendukung: Mendorong manusia untuk mengelola sumber daya alam secara berkelanjutan.
+	•	Tanggung Jawab: Menjunjung tinggi rasa tanggung jawab terhadap alam.
+	•	Kualitas Manusia: Meningkatkan kemampuan manusia agar mampu memanfaatkan teknologi secara efisien dan bertanggung jawab.
+C. Empat Pilar SDGs
+Berdasarkan Deklarasi SDGs, terdapat 17 tujuan pembangunan berkelanjutan yang dikelompokkan ke dalam 4 pilar utama yang saling berhubungan:
+	•	Pilar Pembangunan Sosial: Fokus pada kesejahteraan masyarakat agar kebutuhan dasar seperti pendidikan dan kesehatan terpenuhi.
+	•	Pilar Pembangunan Ekonomi: Fokus pada peningkatan ekonomi yang ramah lingkungan melalui kolaborasi dan inovasi.
+	•	Pilar Pembangunan Lingkungan: Meliputi pelestarian lingkungan hidup, baik yang ada di darat maupun di air.
+	•	Pilar Pembangunan Tata Kelola: Berhubungan dengan usaha menjaga perdamaian, keadilan, dan memperkuat kelembagaan yang tangguh.
+Kuis
+	•	Apa tujuan utama dari pembangunan berkelanjutan?
+	•	Sebutkan empat pilar utama dalam Sustainable Development Goals (SDGs)!
+M2: Memberi Pengalaman Langsung
+Kegiatan 5.1: Kampanye Pembangunan Berkelanjutan (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok (4—5 orang) dan amatilah fenomena perubahan iklim seperti banjir atau kekeringan yang tidak menentu (fenomena La Nina dan El Nino).
+	•	Tugas: Buatlah sebuah infografik yang mengajak masyarakat untuk mencegah perubahan iklim dengan menerapkan pola hidup berkelanjutan.
+	•	Aksi Nyata: Masukkan saran praktis dalam infografik tersebut, seperti menghemat air atau menanam pohon di sekitar rumah.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Menjadi Generasi Emas 2045 Setiap individu memiliki peran dalam keberhasilan pembangunan berkelanjutan. Sebagai pelajar, kontribusi konkretmu mulai dari lingkungan keluarga dan sekolah akan sangat menentukan apakah Indonesia mampu hidup sejahtera di masa depan. Masa depan bumi ada di tangan tindakan bijakmu hari ini!.
+Scan (QR Code)
+Pindai di sini untuk melihat video penjelasan mengenai 17 tujuan SDGs dan cara mudah menerapkannya dalam kehidupan sehari-hari sebagai pelajar.
+
+Pelajaran 6: Dinamika Sosial dan Perubahan Budaya di Sekitar Kita
+M1: Memulai dengan Menantang
+Pernahkah kamu mengamati perbedaan kondisi di sekitar tempat tinggalmu antara beberapa tahun lalu dengan kondisi sekarang? Apakah kamu masih sering melihat kegiatan musyawarah antarwarga atau justru cara berkomunikasi masyarakat saat ini sudah jauh berbeda? Masyarakat tidak pernah bersifat tetap karena kehidupan manusia terus mengalami perkembangan yang membuatnya tidak membosankan dan selalu menarik untuk dipelajari.
+A. Hakikat Perubahan dan Dinamika Sosial
+Kondisi masyarakat senantiasa mengalami perubahan dari waktu ke waktu yang mencakup perubahan cara berpikir, perubahan perilaku, hingga perubahan alat-alat kehidupan. Perubahan ini sering disebut sebagai dinamika sosial, yang berasal dari kata "dinamis" dengan arti "selalu berubah". Dinamika sosial dapat terjadi pada tingkat perorangan maupun kelompok dan hanya bisa muncul apabila terdapat interaksi serta komunikasi dalam masyarakat.
+Faktor Penyebab Dinamika Sosial
+Perubahan dalam masyarakat dipicu oleh dua faktor utama, yaitu:
+	•	Faktor Internal: Berasal dari dalam masyarakat itu sendiri, seperti bertambah atau berkurangnya jumlah penduduk, adanya konflik sosial, maupun terjadinya revolusi.
+	•	Faktor Eksternal: Berasal dari luar masyarakat, contohnya bencana alam, peperangan, dan interaksi dengan kebudayaan asing.
+B. Jenis-Jenis Dinamika Sosial
+Dalam perkembangannya, dinamika sosial di masyarakat terwujud dalam beberapa proses penting, antara lain:
+	•	Difusi: Proses penyebaran unsur kebudayaan dari satu individu ke individu lain atau dari satu masyarakat ke masyarakat lain.
+	•	Akulturasi: Berpadunya dua kebudayaan berbeda menjadi satu kebudayaan baru tanpa menghilangkan unsur atau ciri khas kebudayaan aslinya.
+	•	Asimilasi: Percampuran dua kebudayaan atau lebih yang menghasilkan kebudayaan baru yang berbeda dari aslinya.
+	•	Sosialisasi: Proses di mana individu mempelajari nilai dan norma dalam masyarakat agar dapat berperan aktif di dalamnya.
+	•	Internalisasi: Proses penyerapan nilai-nilai sosial secara mendalam ke dalam diri seseorang sehingga menjadi bagian dari pola pikir dan perilakunya.
+C. Mengenal Budaya dan Karakteristik Masyarakat
+Kebudayaan merupakan konsep luas yang terdiri atas semua ide, keyakinan, perilaku, dan produk umum yang mendefinisikan cara hidup suatu kelompok. Budaya mencakup segala sesuatu yang diciptakan manusia saat mereka berinteraksi bersama dan membentuk cara individu memandang dunia.
+Hampir setiap perilaku manusia dipelajari dari lingkungannya, mulai dari cara berbelanja, adat istiadat pernikahan, hingga pola asuh anak. Karena variasi budaya yang sangat beragam di seluruh dunia, seseorang mungkin mengalami culture shock atau kebingungan saat menghadapi situasi dan cara hidup yang tidak biasa baginya. Mengenal aturan tidak tertulis (budaya) sangat penting agar orang merasa aman dan dapat menjalani kehidupan sehari-hari tanpa gangguan.
+M2: Memberi Pengalaman Langsung
+Kegiatan 6.1: Menelusuri Dinamika Sosial (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok yang terdiri atas 4—5 orang.
+	•	Eksplorasi: Carilah contoh nyata dari fenomena Difusi, Akulturasi, dan Asimilasi yang ada di lingkungan sekitar kalian atau melalui internet.
+	•	Analisis: Diskusikan mengapa fenomena tersebut dapat terjadi dan apa pengaruhnya terhadap kehidupan masyarakat setempat.
+	•	Kesimpulan: Tariklah sebuah kesimpulan bersama kelompok mengenai alasan mengapa kehidupan manusia selalu mengalami perubahan dan dinamika sosial.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Transformasi Teknologi Perubahan sosial paling nyata saat ini terlihat dari penggunaan alat komunikasi. Jika dahulu televisi berbentuk tabung dengan antena yang terbatas pilihannya, kini era TV pintar (Smart TV) memungkinkan kita melihat tayangan yang jauh lebih beragam dan jernih secara instan. Perubahan teknologi ini mengakibatkan pergerakan informasi menjadi semakin cepat dan aktivitas kehidupan manusia menjadi semakin sibuk serta beragam.
+Pertanyaan Tantangan:
+	•	Menurut pendapatmu, apakah dinamika sosial selalu membawa dampak positif bagi masyarakat? Jelaskan alasanmu!
+	•	Bagaimana cara terbaik menghadapi culture shock agar kita tetap dapat menghargai keberagaman budaya di sekitar kita?
+Scan (QR Code)
+Pindai di sini untuk melihat video dokumentasi mengenai perkembangan Tugu Jogja dari tahun 1930 hingga masa kini sebagai contoh nyata perubahan sosial di Indonesia.
+
+Pelajaran 7: Masalah Pokok Ekonomi: Kelangkaan dan Kebutuhan
+M1: Memulai dengan Menantang
+Pernahkah kamu merasa sangat ingin membeli beberapa jenis jajanan di kantin, namun uang sakumu tidak cukup untuk semuanya?. Situasi ini merupakan gambaran sederhana dari masalah ekonomi yang dihadapi manusia setiap hari. Bagaimana kita harus memilih dengan bijak ketika apa yang kita inginkan jauh lebih banyak daripada apa yang tersedia?.
+A. Konsep Kelangkaan
+Dalam ilmu ekonomi, kelangkaan merupakan masalah pokok ekonomi yang terjadi ketika kebutuhan manusia yang hampir tidak terbatas tidak mampu dipenuhi oleh alat pemuas kebutuhan yang sifatnya terbatas. Kondisi ini mengharuskan manusia untuk melakukan pilihan atau prioritas dalam memenuhi kebutuhannya agar kelangsungan hidup tetap terjaga.
+B. Tiga Masalah Pokok Ekonomi Modern
+Menurut teori ekonomi modern, terdapat tiga pertanyaan mendasar yang harus dijawab untuk mengatasi masalah ekonomi:
+1. Apa Barang yang Akan Diproduksi? (What)
+Menentukan jenis, jumlah, dan waktu proses produksi merupakan masalah pokok karena kesalahan dalam menentukan barang dapat menimbulkan kerugian. Produsen harus mempertimbangkan apakah barang tersebut memberikan manfaat, menguntungkan, dan mampu memenuhi kebutuhan masyarakat sekitar. Sebagai contoh, memproduksi jaket tebal secara massal di daerah pantai yang panas adalah pilihan yang kurang tepat karena tidak sesuai dengan kebutuhan masyarakat setempat.
+2. Bagaimana Cara Memproduksi Barang Tersebut? (How)
+Setelah jenis barang ditentukan, produsen harus memilih teknik produksi yang paling efisien. Hal ini melibatkan pertimbangan terhadap:
+	•	Sumber daya: Ketersediaan, lokasi, dan harga bahan baku.
+	•	Teknologi: Apakah akan diproduksi secara manual dengan tenaga manusia atau menggunakan mesin.
+	•	Tenaga kerja: Memilih tenaga kerja yang kompeten agar hasil produksi maksimal.
+3. Untuk Siapa Barang dan Jasa Diproduksi? (For Whom)
+Langkah terakhir adalah menentukan konsumen yang akan menikmati hasil produksi melalui segmentasi pasar. Produsen perlu mempertimbangkan jenis produk dan harga untuk menentukan apakah barang tersebut ditujukan bagi konsumen menengah ke bawah, menengah, atau menengah ke atas.
+M2: Memberi Pengalaman Langsung
+Kegiatan 7.1: Analisis Kelangkaan di Sekitar (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok yang terdiri atas 4—5 orang.
+	•	Investigasi: Tanyakan kepada orang tuamu tentang barang atau jasa yang dirasakan langka atau mengalami kenaikan harga selama seminggu terakhir.
+	•	Analisis: Cari tahu penyebab kelangkaan tersebut melalui berita di internet, koran, atau televisi.
+	•	Laporan: Buatlah peta konsep kreatif yang melaporkan temuan kelompokmu mengenai barang yang langka dan alasan mengapa hal itu terjadi.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Literasi dalam Memilih Memahami masalah pokok ekonomi membantu kita menjadi konsumen dan produsen yang lebih cerdas. Di dunia yang memiliki sumber daya terbatas, kemampuan kita untuk menentukan "skala prioritas" adalah kunci utama agar kita tidak hanya mengikuti keinginan sesaat, tetapi benar-benar memenuhi kebutuhan yang penting bagi masa depan.
+Scan (QR Code)
+Pindai di sini untuk melihat video penjelasan tentang bagaimana perusahaan besar menentukan segmentasi pasar mereka agar tepat sasaran kepada konsumen.
+
+Rangkuman
+	•	Sejarah Geologis: Para ilmuwan memperkirakan umur bumi sekitar 2,5 miliar tahun.
+	•	Arkaekum: Bumi belum stabil, suhu sangat panas, dan belum ada tanda kehidupan.
+	•	Paleozoikum: Berlangsung sekitar 340 juta tahun lalu, suhu menurun dan makhluk hidup mulai muncul.
+	•	Mesozoikum: Berlangsung sekitar 140 juta tahun lalu, ditandai kemunculan mamalia, burung, dan reptil besar seperti dinosaurus.
+	•	Neozoikum: Terbagi menjadi Zaman Tersier (perkembangan mamalia) dan Zaman Kuarter yang merupakan awal kemunculan manusia.
+	•	Pencemaran Udara: Terjadi akibat emisi gas karbon dari pembakaran yang memicu efek rumah kaca dan kenaikan suhu bumi (pemanasan global).
+	•	Pencemaran Air: Disebabkan oleh limbah industri dan rumah tangga yang memicu eutrofikasi (blooming algae), sehingga menurunkan kadar oksigen dan membahayakan kesehatan manusia jika mengonsumsi biota air yang tercemar.
+	•	Pencemaran Tanah: Akibat tumpukan sampah plastik yang sulit terurai dan penggunaan pestisida berlebihan yang menghilangkan unsur hara tanah serta bersifat karsinogenik bagi manusia.
+	•	Pelestarian Udara: Dilakukan melalui transisi ke kendaraan berbasis listrik atau gas, pengendalian emisi, serta penanaman pohon untuk menghasilkan oksigen.
+	•	Pelestarian Air: Melalui pembuatan sumur resapan, Program Kali Bersih, serta penggunaan detergen ramah lingkungan.
+	•	Pelestarian Tanah: Menggunakan pupuk organik, memilah sampah, serta melakukan bioremediasi (pembersihan tanah menggunakan mikroorganisme)
+	•	Masa Berburu & Mengumpulkan Makanan: Hidup berpindah-pindah (nomaden), tinggal di gua (abris sous roche), dan meninggalkan sampah dapur berupa kulit kerang yang membukit (kjokkenmoddinger).
+	•	Masa Bercocok Tanam: Terjadi revolusi dari food gathering menjadi food producing, manusia mulai hidup menetap (sedenter) di perkampungan, mengenal pertanian, dan budaya gotong royong.
+	•	Masa Perundagian: Masa di mana masyarakat memiliki keterampilan teknik (undagi) untuk melebur logam, mengenal sistem barter, dan mahir berlayar menggunakan perahu bercadik.
+	•	Hakikat: Upaya memenuhi kebutuhan masa kini tanpa mengorbankan kebutuhan generasi masa depan.
+	•	Pilar SDGs: Terdapat 17 tujuan yang dikelompokkan ke dalam 4 pilar: sosial, ekonomi, lingkungan hidup, dan tata kelola.
+	•	Dinamika Sosial: Perubahan cara berpikir, perilaku, dan alat kehidupan masyarakat yang dipicu interaksi serta komunikasi.
+	•	Jenis Dinamika: Meliputi Difusi (penyebaran budaya), Akulturasi (perpaduan budaya tanpa menghilangkan ciri asli), Asimilasi (perpaduan menghasilkan budaya baru), Sosialisasi, dan Internalisasi.
+	•	Kelangkaan: Kondisi ketika kebutuhan manusia yang tidak terbatas tidak dapat dipenuhi oleh alat pemuas kebutuhan yang terbatas.
+	•	Tiga Masalah Ekonomi: Menentukan barang apa yang akan diproduksi (What), bagaimana cara memproduksinya (How), dan untuk siapa barang tersebut diproduksi (For Whom).
+
+
+Uji Capaian Pembelajaran Tema 2
+A. Pilihlah satu jawaban yang benar!
+	•	Bumi pada awal pembentukannya belum stabil dan memiliki suhu yang sangat panas sehingga belum terdapat tanda-tanda kehidupan. Masa ini disebut zaman .... 
+a. Arkaekum 
+b. Paleozoikum 
+c. Mesozoikum 
+d. Neozoikum
+	•	Zaman yang ditandai dengan kemunculan reptil besar seperti dinosaurus dan berlangsung sekitar 140 juta tahun yang lalu adalah zaman .... 
+a. Arkaekum 
+b. Paleozoikum 
+c. Mesozoikum 
+d. Neozoikum
+	•	Penumpukan gas karbon dioksida di atmosfer yang memerangkap panas matahari dan menyebabkan suhu permukaan bumi meningkat disebut fenomena .... 
+a. Pencemaran tanah 
+b. Efek rumah kaca 
+c. Eutrofikasi 
+d. Bioremediasi
+	•	Ledakan populasi alga (blooming algae) di sungai akibat pencemaran limbah dapat menyebabkan ikan mati karena kekurangan oksigen. Fenomena ini merupakan dampak dari .... 
+a. Pencemaran udara 
+b. Pencemaran air 
+c. Pencemaran tanah 
+d. Pemanasan global
+	•	Perubahan besar dalam kehidupan manusia praaksara dari pola hidup berpindah-pindah menjadi menetap dan menghasilkan makanan sendiri (food producing) terjadi pada masa .... 
+a. Berburu tingkat sederhana 
+b. Berburu tingkat lanjut 
+c. Bercocok tanam 
+d. Perundagian
+	•	Masyarakat yang telah memiliki keterampilan teknik khusus seperti melebur dan mencetak alat-alat dari logam dikategorikan berada pada masa .... 
+a. Paleolitikum 
+b. Mesolitikum 
+c. Neolitikum 
+d. Perundagian
+	•	Upaya memenuhi kebutuhan masa kini tanpa mengorbankan kemampuan generasi mendatang untuk memenuhi kebutuhan mereka merupakan hakikat dari .... 
+a. Pembangunan berkelanjutan 
+b. Dinamika sosial 
+c. Kegiatan ekonomi 
+d. Akulturasi budaya
+	•	Pilar pembangunan dalam SDGs yang berfokus pada pelestarian ekosistem darat dan air agar lingkungan tetap seimbang adalah .... 
+a. Pilar sosial 
+b. Pilar ekonomi 
+c. Pilar lingkungan 
+d. Pilar tata kelola
+	•	Penyebaran unsur kebudayaan dari satu individu ke individu lain atau dari satu kelompok ke kelompok lain dalam dinamika sosial disebut .... 
+a. Difusi 
+b. Akulturasi 
+c. Asimilasi 
+d. Sosialisasi
+	•	Masalah pokok ekonomi modern yang berkaitan dengan penentuan teknik produksi, apakah menggunakan tenaga manusia atau mesin, adalah masalah .... 
+a. Apa barang yang diproduksi (what) 
+b. Bagaimana cara memproduksi (how) 
+c. Untuk siapa barang diproduksi (for whom) 
+d. Kapan barang diproduksi (when)
+B. Jawablah pertanyaan-pertanyaan berikut dengan tepat.
+	•	Zaman Neozoikum terbagi menjadi dua masa penting, yaitu Zaman Tersier dan Zaman Kuarter (munculnya tanda kehidupan manusia).
+	•	Tumpukan sampah dapur berupa kulit kerang dan siput yang membukit di pinggir pantai pada masa Mesolitikum disebut kjokkenmoddinger.
+	•	Proses pembersihan tanah yang tercemar dengan menggunakan bantuan mikroorganisme seperti jamur atau bakteri disebut bioremediasi.
+	•	Perpaduan dua kebudayaan berbeda menjadi satu kebudayaan baru tanpa menghilangkan ciri asli masing-masing budaya tersebut disebut akulturasi.
+	•	Kondisi di mana kebutuhan manusia yang hampir tidak terbatas tidak mampu dipenuhi oleh alat pemuas kebutuhan yang terbatas disebut kelangkaan.
+C. Soal AKM (Asesmen Kompetensi Minimum)
+Stimulus 1: Sejarah Geologis Bumi "Ilmuwan memperkirakan umur bumi mencapai 2,5 miliar tahun. Dalam perjalanannya, bumi mengalami pendinginan suhu hingga muncul makhluk bersel satu pada masa Paleozoikum, disusul reptil pada Mesozoikum, hingga mamalia dan manusia pada Neozoikum."
+	•	Berdasarkan teks tersebut, manakah pernyataan yang BENAR terkait urutan perkembangan makhluk hidup? (Pilih satu jawaban) a. Manusia sudah ada sejak bumi masih bersuhu panas (Arkaekum). b. Reptil besar muncul lebih dahulu dibandingkan makhluk bersel satu. c. Kehidupan manusia muncul pada periode yang paling muda secara geologis. d. Zaman Mesozoikum adalah zaman tertua yang tidak memiliki tanda kehidupan.
+Stimulus 2: Grafik Tutupan Hutan Data menunjukkan persentase tutupan hutan alam di Indonesia menurun dari 55,82% pada tahun 2000 menjadi 43,45% pada tahun 2017 akibat deforestasi.
+	•	Apa dampak deforestasi (perambahan hutan) tersebut terhadap pilar lingkungan dalam SDGs? Deforestasi mengancam kelestarian ekosistem daratan (pilar lingkungan), mengurangi kemampuan bumi menyerap karbon, dan memicu pemanasan global.
+Stimulus 3: Revolusi Budaya Praaksara "Masa bercocok tanam adalah revolusi penting di mana manusia mulai hidup menetap (sedenter) di dataran tinggi atau dekat sumber air untuk mengolah lahan secara gotong royong."
+	•	Berdasarkan stimulus, mengapa pola hidup menetap mendorong munculnya rasa gotong royong dalam masyarakat praaksara? Karena aktivitas mengolah lahan, membangun hunian, dan upacara adat memerlukan kerja sama antaranggota kelompok dalam satu perkampungan.
+Stimulus 4: Dinamika Sosial "Teknologi berkembang sangat cepat. Penggunaan smartphone kini menjadi kebutuhan utama masyarakat untuk berkomunikasi dan bekerja, berbeda jauh dengan kondisi dua dekade lalu."
+	•	Fenomena penggunaan smartphone yang mengubah cara berkomunikasi masyarakat termasuk dalam kategori .... a. Asimilasi budaya b. Perubahan sosial/Dinamika sosial c. Isolasi geografis d. Kelangkaan sarana komunikasi
+Stimulus 5: Skala Prioritas Ekonomi "Lili memiliki uang Rp1.000.000,00. Ia harus memilih antara membeli sepatu bermerek karena sedang diskon (keinginan) atau membeli buku pelajaran dan menabung (kebutuhan)."
+	•	Berdasarkan konsep literasi keuangan, langkah terbaik yang harus dilakukan Lili adalah .... Menyusun skala prioritas dengan mendahulukan pemenuhan kebutuhan dasar (buku pelajaran) dan menyisihkan uang untuk tabungan sebelum memenuhi keinginan.
+
+Kunci jawaban untuk paket soal Uji Capaian Pembelajaran Tema II: Keberagaman Lingkungan Sekitar.
+A. Kunci Jawaban Pilihan Ganda
+	•	a. Arkaekum (Alasan: Zaman Arkaekum adalah masa awal pembentukan bumi yang masih panas dan belum stabil sehingga belum ada kehidupan.)
+	•	c. Mesozoikum (Alasan: Zaman ini dikenal sebagai zaman reptil besar seperti dinosaurus yang berlangsung sekitar 140 juta tahun lalu.)
+	•	b. Efek rumah kaca (Alasan: Fenomena terperangkapnya panas matahari di atmosfer akibat polusi gas karbon disebut efek rumah kaca.)
+	•	b. Pencemaran air (Alasan: Blooming algae adalah dampak pencemaran air yang menghambat masuknya sinar matahari dan mengurangi kadar oksigen di air.)
+	•	c. Bercocok tanam (Alasan: Masa bercocok tanam merupakan revolusi dari food gathering menjadi food producing dan manusia mulai hidup menetap.)
+	•	d. Perundagian (Alasan: Kata undagi berarti golongan masyarakat yang terampil dalam teknik peleburan dan pencetakan logam.)
+	•	a. Pembangunan berkelanjutan (Alasan: Hakikat pembangunan berkelanjutan adalah pemenuhan kebutuhan masa kini tanpa merusak kebutuhan masa depan.)
+	•	c. Pilar lingkungan (Alasan: Pilar pembangunan lingkungan dalam SDGs mencakup pelestarian ekosistem di darat dan air.)
+	•	a. Difusi (Alasan: Difusi adalah proses penyebaran unsur kebudayaan dari satu pihak ke pihak lain.)
+	•	b. Bagaimana cara memproduksi (how) (Alasan: Masalah ini berkaitan dengan pemilihan teknik produksi dan teknologi yang akan digunakan.)
+B. Kunci Jawaban Isian Singkat
+	•	Kuarter (Zaman terpenting karena mulai muncul tanda kehidupan manusia.)
+	•	Kjokkenmoddinger (Sampah dapur berupa kulit kerang di pinggir pantai pada masa Mesolitikum.)
+	•	Bioremediasi (Proses pembersihan tanah tercemar dengan mikroorganisme [Rangkuman Pelajaran 3].)
+	•	Akulturasi (Perpaduan dua budaya tanpa menghilangkan ciri asli budaya aslinya.)
+	•	Kelangkaan (Masalah pokok ketika alat pemuas tidak cukup untuk memenuhi kebutuhan yang tidak terbatas.)
+C. Kunci Jawaban Soal AKM
+	•	Analisis Sejarah Geologis: c. Kehidupan manusia muncul pada periode yang paling muda secara geologis. (Urutan zaman dari tertua ke termuda adalah Arkaekum, Paleozoikum, Mesozoikum, lalu Neozoikum/Kuarter tempat manusia muncul.)
+	•	SDGs dan Deforestasi: Deforestasi mengancam pilar pembangunan lingkungan dalam SDGs karena merusak ekosistem daratan, mengurangi kemampuan serapan karbon, dan mempercepat pemanasan global.
+	•	Revolusi Budaya Praaksara: Pola hidup menetap mendorong gotong royong karena aktivitas pembukaan lahan, pembangunan hunian, dan upacara adat memerlukan kerja sama antaranggota kelompok dalam satu perkampungan.
+	•	Dinamika Sosial: b. Perubahan sosial/Dinamika sosial (Fenomena ini menunjukkan perubahan cara hidup masyarakat yang dipicu oleh perkembangan teknologi alat komunikasi.)
+	•	Skala Prioritas Ekonomi: Lili harus menyusun skala prioritas dengan mengutamakan kebutuhan pokok (buku pelajaran) daripada keinginan (sepatu diskon) agar tercapai kemandirian finansial.
+
+
+
+
+Tema III: Potensi Ekonomi Lingkungan
+Tujuan Pembelajaran: Setelah mempelajari tema ini, siswa diharapkan mampu:
+	•	Mengklasifikasikan pemanfaatan dan pelestarian potensi sumber daya alam.
+	•	Menjelaskan faktor penyebab perubahan potensi sumber daya alam Indonesia.
+	•	Mendemonstrasikan penentuan harga dan mekanisme pasar di lingkungan sekitar.
+	•	Menganalisis potensi Indonesia untuk menjadi negara maju melalui bonus demografi.
+	•	Menganalisis toponimi daerah dan interaksi sosial masyarakat.
+
+Pelajaran 1: Pemanfaatan dan Pelestarian Potensi Sumber Daya Alam
+M1: Memulai dengan Menantang
+Pernahkah kamu memperhatikan mengapa pekerjaan orang di pegunungan berbeda dengan orang di tepi pantai?. Sebagai negara yang berada di garis khatulistiwa, Indonesia dianugerahi iklim tropis yang membuat alam kita sangat kaya. Bagaimana cara kita mengelola kekayaan ini agar bisa memenuhi kebutuhan sekarang tanpa merusak masa depan?.
+A. Hakikat Sumber Daya Alam (SDA)
+Sumber daya alam adalah segala sesuatu yang ada di permukaan bumi yang dapat dimanfaatkan untuk memenuhi kebutuhan manusia. Berdasarkan kelestariannya, SDA dibedakan menjadi dua jenis utama:
+	•	SDA yang Dapat Diperbarui (Renewable Resources): Sumber daya yang dapat tersedia kembali dalam waktu cepat, seperti air, tanah, dan hutan.
+	•	SDA yang Tidak Dapat Diperbarui (Non-renewable Resources): Sumber daya yang jumlahnya terbatas dan butuh waktu jutaan tahun untuk terbentuk kembali, seperti minyak bumi dan batu bara.
+B. Potensi Sumber Daya Alam Hutan
+Hutan Indonesia memiliki peran besar dalam pembangunan ekonomi dan keseimbangan alam. Berdasarkan fungsinya, hutan di Indonesia dibagi menjadi tiga jenis:
+1. Hutan Produksi
+Hutan ini dimanfaatkan untuk menghasilkan bahan baku industri, seperti kayu dan rotan. Pemanfaatannya harus melalui izin pemerintah agar tetap terkendali.
+2. Hutan Lindung
+Fungsi utamanya adalah melindungi sistem penyangga kehidupan. Hutan ini berperan dalam mengatur suplai air, mencegah banjir, mengendalikan erosi, dan memelihara kesuburan tanah.
+3. Hutan Konservasi
+Hutan ini memiliki fungsi pokok untuk pengawetan keanekaragaman tumbuhan dan satwa. Hutan konservasi dibagi lagi menjadi:
+	•	Kawasan Suaka Alam: Terdiri dari Cagar Alam (perlindungan ekosistem asli) dan Suaka Margasatwa (perlindungan jenis satwa unik).
+	•	Kawasan Pelestarian Alam: Terdiri dari Taman Nasional, Taman Wisata Alam, dan Taman Hutan Raya yang dimanfaatkan untuk penelitian, pendidikan, dan pariwisata.
+Kuis
+	•	Apa perbedaan antara SDA yang dapat diperbarui dan tidak dapat diperbarui?.
+	•	Sebutkan tiga fungsi utama hutan lindung bagi lingkungan sekitarmu!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 1.1: Analisis Potensi Alam Lokal (Individu)
+	•	Langkah Kerja: Amatilah bentang alam di daerah tempat tinggalmu (apakah dataran tinggi, dataran rendah, atau pesisir).
+	•	Identifikasi: Tentukan apa potensi alam yang paling menonjol di daerahmu (misal: perkebunan sayur, perkantoran, atau perikanan).
+	•	Tugas: Masukkan hasil temuanmu ke dalam tabel berikut:
+	•	Jenis Bentang Alam: (Sesuai lokasi).
+	•	Potensi Ekonomi: (Mata pencaharian dominan).
+	•	Upaya Pelestarian: (Apa yang sudah dilakukan warga untuk menjaga alam tersebut?).
+	•	Diskusi: Sampaikan hasilnya di depan kelas dan bandingkan dengan teman yang tinggal di wilayah berbeda.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Harmoni Alam dan Ekonomi Masyarakat pesisir menggantungkan hidup pada laut, sementara masyarakat pegunungan pada kesuburan tanah. Perbedaan potensi alam inilah yang memicu terjadinya perdagangan dan interaksi antarwilayah. Menjaga kelestarian hutan dan laut bukan hanya tentang lingkungan, tetapi tentang menjaga "napas" ekonomi bangsa kita sendiri.
+Pertanyaan Tantangan:
+	•	Jika semua hutan produksi ditebang habis untuk kepentingan ekonomi sesaat, apa dampaknya bagi generasi Indonesia di tahun 2045?.
+	•	Bagaimana cara kamu sebagai pelajar ikut serta dalam kampanye pelestarian kawasan suaka alam di Indonesia?.
+Scan (QR Code)
+Pindai di sini untuk melihat peta sebaran hutan dan kawasan konservasi di Indonesia secara interaktif.
+
+Pelajaran 2: Potensi dan Pemanfaatan Sumber Daya Alam Tambang
+M1: Memulai dengan Menantang
+Coba perhatikan benda-benda di sekitarmu. Dari mana asal besi pada sepedamu, bahan bakar kendaraan yang mengantarmu ke sekolah, atau gas yang digunakan ibumu untuk memasak?. Semua itu berasal dari perut bumi Indonesia yang sangat kaya akan sumber daya tambang. Namun, tahukah kamu bahwa barang-barang ini butuh jutaan tahun untuk terbentuk dan jumlahnya sangat terbatas?.
+A. Hakikat Sumber Daya Alam Tambang
+Pertambangan adalah kegiatan pengambilan endapan bahan galian berharga dan bernilai ekonomis dari dalam kulit bumi, baik di permukaan, di bawah tanah, maupun di bawah air. Barang tambang termasuk dalam sumber daya alam yang tidak dapat diperbarui (non-renewable resources) karena proses pembentukannya yang sangat lama.
+Berdasarkan UU No. 11 Tahun 1967, barang tambang di Indonesia dibagi menjadi tiga golongan:
+	•	Golongan A (Bahan Galian Strategis): Penting untuk pertahanan dan keamanan negara. Pengelolaannya dilakukan oleh pemerintah, contohnya minyak bumi dan gas bumi.
+	•	Golongan B (Bahan Galian Vital): Digunakan untuk memenuhi hajat hidup orang banyak. Contohnya emas, perak, dan tembaga.
+	•	Golongan C (Bahan Galian Industri): Digunakan untuk keperluan industri dan tidak langsung memengaruhi hajat hidup orang banyak. Contohnya pasir dan batu kapur.
+B. Potensi Tambang Utama di Indonesia
+Indonesia memiliki cadangan tambang yang melimpah, di antaranya:
+	•	Batu Bara: Terbentuk dari endapan tumbuhan yang terkena suhu dan tekanan tinggi selama jutaan tahun.
+	•	Minyak Bumi dan Gas Bumi: Berasal dari endapan mikroorganisme (tumbuhan dan hewan) yang mati jutaan tahun lalu. Gas bumi sering dimanfaatkan sebagai bahan bakar memasak (LPG).
+	•	Logam (Nikel, Timah, Bauksit): Menjadi bahan baku penting untuk industri logam, elektronik, dan manufaktur.
+C. Tahapan Pemanfaatan Sumber Daya Tambang
+Pemanfaatan barang tambang harus mengikuti aturan dan melalui tahapan sistematis:
+	•	Prospeksi: Penyelidikan awal untuk menemukan lokasi endapan mineral berharga.
+	•	Eksplorasi: Kegiatan untuk mengetahui ukuran, bentuk, posisi, dan jumlah cadangan mineral yang ditemukan.
+	•	Eksploitasi: Proses penambangan atau pengambilan dan pengangkutan bahan galian ke tempat penimbunan.
+	•	Pengolahan: Aktivitas memurnikan mineral dengan memisahkan mineral berharga dari zat yang tidak berharga.
+Kuis
+	•	Apa perbedaan antara bahan galian golongan A dan golongan C?.
+	•	Mengapa minyak bumi termasuk dalam sumber daya alam yang tidak dapat diperbarui?.
+M2: Memberi Pengalaman Langsung
+Kegiatan 2.1: Analisis Dampak Eksploitasi (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok (3—4 orang) dan bacalah berita tentang penambangan di suatu wilayah.
+	•	Diskusi: Apa dampaknya bagi lingkungan jika barang tambang dieksploitasi tanpa memperhatikan kelestarian alam?.
+	•	Solusi: Tuliskan upaya yang dapat kalian lakukan untuk menghemat penggunaan energi yang berasal dari barang tambang (misal: menghemat penggunaan bensin atau listrik).
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Transformasi Energi Meskipun Indonesia kaya akan minyak dan batu bara, penggunaan energi fosil secara terus-menerus memicu kerusakan lingkungan. Saat ini, dunia mulai beralih ke energi terbarukan seperti energi matahari, angin, dan arus laut yang lebih ramah lingkungan. Sebagai generasi penerus, tindakan bijakmu dalam mengonsumsi hasil tambang hari ini akan memastikan ketersediaan sumber daya untuk masa depan.
+Scan (QR Code)
+Pindai di sini untuk melihat infograik interaktif mengenai peta persebaran hasil tambang di seluruh wilayah Indonesia.
+
+Pelajaran 3: Potensi dan Pemanfaatan Sumber Daya Kemaritiman
+M1: Memulai dengan Menantang
+Tahukah kamu bahwa luas lautan Indonesia mencakup dua pertiga dari seluruh wilayah negara kita? Laut Indonesia bukan sekadar hamparan air, melainkan "harta karun" raksasa yang menyimpan 37% spesies sumber daya hayati dunia, 17,95% terumbu karang dunia, serta 30% hutan bakau dan padang lamun. Bagaimana kita bisa memanfaatkan kekayaan laut ini untuk kesejahteraan rakyat tanpa merusak ekosistemnya?.
+A. Perikanan
+Perikanan merupakan segala usaha yang meliputi penangkapan, pengolahan, hingga pemasaran hasilnya. Berdasarkan peralatan yang digunakan, penangkapan ikan laut dibedakan menjadi dua:
+	•	Penangkapan Tradisional: Menggunakan peralatan sederhana seperti perahu layar yang bergantung pada tenaga angin dan manusia, serta jala atau pancing sederhana.
+	•	Penangkapan Modern: Menggunakan kapal motor yang dilengkapi dengan peti pendingin agar ikan hasil tangkapan tetap segar dalam waktu lama dan tidak cepat busuk.
+B. Energi Kelautan
+Laut Indonesia juga menyimpan potensi energi terbarukan yang ramah lingkungan karena tidak menghasilkan gas rumah kaca. Potensi energi ini meliputi:
+	•	Energi Gelombang (wave power).
+	•	Energi Pasang Surut (tidal power).
+	•	Energi Arus Laut (current power).
+	•	Energi Panas Laut (ocean thermal energy conversion).
+Meskipun ramah lingkungan, tantangan utama pengembangan energi ini adalah biaya investasi yang sangat besar.
+C. Wisata Bahari
+Keindahan pantai dan alam bawah laut Indonesia merupakan daya tarik wisata yang luar biasa.
+	•	Aktivitas: Mencakup berjemur (sunbathing), berenang, olahraga air seperti memancing, menyelam, snorkeling, hingga fotografi bawah laut.
+	•	Tantangan: Pembangunan wisata bahari sering terkendala oleh terbatasnya infrastruktur, aksesibilitas yang sulit ke wilayah terpencil, serta kebutuhan akan sumber daya manusia yang terampil dalam pengelolaan wisata.
+Kuis
+	•	Sebutkan keunggulan menangkap ikan dengan cara modern dibandingkan tradisional!.
+	•	Apa saja jenis energi terbarukan yang dapat dihasilkan dari laut?.
+M2: Memberi Pengalaman Langsung
+Kegiatan 3.1: Eksplorasi Potensi Bahari (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok (3—4 orang) dan pilihlah satu wilayah pesisir di Indonesia (misal: Raja Ampat, Bunaken, atau Pantai di daerahmu).
+	•	Identifikasi: Carilah informasi mengenai potensi perikanan dan daya tarik wisata di wilayah tersebut.
+	•	Analisis: Apa saja tantangan yang dihadapi wilayah tersebut untuk menjadi destinasi wisata bahari kelas dunia?.
+	•	Saran: Tuliskan pendapat kelompokmu mengenai infrastruktur apa yang paling dibutuhkan di sana.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Menjaga Laut, Menjaga Masa Depan Lautan adalah paru-paru dunia dan sumber protein utama bagi jutaan orang. Sayangnya, potensi besar ini sering terancam oleh pencemaran limbah dan eksploitasi berlebih. Sebagai generasi muda, menjaga kebersihan pantai dan tidak membuang sampah ke laut adalah langkah awal untuk memastikan "harta karun" kemaritiman kita tetap lestari untuk generasi mendatang.
+Scan (QR Code)
+Pindai di sini untuk melihat video keanekaragaman terumbu karang di Indonesia dan cara kerja pembangkit listrik tenaga gelombang laut.
+
+Pelajaran 4: Perdagangan Internasional dan Perbedaan Sumber Daya
+M1: Memulai dengan Menantang
+Pernahkah kamu membayangkan jika Indonesia hanya bisa menggunakan barang-barang yang diproduksi di dalam negeri saja? Tidak ada ponsel pintar dari luar negeri atau mobil bermerek asing. Manusia, baik sebagai individu maupun sebagai sebuah negara, tidak akan mampu memenuhi semua kebutuhannya sendiri tanpa bantuan dari pihak lain. Bagaimana cara negara-negara di dunia saling bekerja sama untuk melengkapi kebutuhan mereka?.
+A. Mengapa Terjadi Perdagangan Internasional?
+Setiap negara memiliki sumber daya yang berbeda-beda. Hal ini disebabkan oleh perbedaan letak geografis yang menciptakan keunikan potensi alam di masing-masing wilayah. Perbedaan sumber daya inilah yang mendorong terjadinya interaksi antarnegara melalui kegiatan perdagangan internasional guna saling memenuhi kebutuhan yang tidak tersedia atau tidak mencukupi di dalam negeri.
+Selain karena perbedaan ketersediaan sumber daya alam, sebuah negara terkadang melakukan perdagangan karena memiliki kemampuan mengolah sumber daya yang terbatas. Hal ini menyebabkan negara tersebut perlu mengekspor bahan mentah untuk diolah di negara lain yang lebih maju teknologinya.
+B. Mengenal Ekspor dan Impor
+Dalam perdagangan internasional, terdapat dua aktivitas utama yang menjadi motor penggerak ekonomi antarnegara:
+	•	Ekspor: Kegiatan menjual produk, baik dalam bentuk barang maupun jasa, ke luar negeri. Contohnya, Indonesia sebagai negara maritim memiliki hasil tangkap ikan tuna yang melimpah dan menjualnya ke Jepang.
+	•	Impor: Kegiatan membeli produk barang atau jasa dari luar negeri. Sebagai contoh, Indonesia membeli beras dari Thailand untuk memastikan ketersediaan pangan nasional tercukupi.
+-------------------------------------------------------------------------------- 
+C. Pelaku dan Bentuk Perdagangan Internasional
+Kegiatan perdagangan lintas negara ini dapat dilakukan oleh berbagai pelaku ekonomi melalui beberapa cara, yaitu:
+	•	Perdagangan Antarindividu: Jual beli yang dilakukan oleh perorangan, contohnya adalah seseorang yang membeli barang dari penjual luar negeri melalui platform e-commerce seperti Shopee, Tokopedia, Lazada, atau Akulaku.
+	•	Perdagangan Antarindividu dengan Pemerintah: Biasanya melibatkan perdagangan jasa atau investasi, misalnya investor asing yang menanamkan modalnya ke dalam proyek pembangunan infrastruktur di Indonesia.
+	•	Perdagangan Antarpemerintah: Bentuk perdagangan yang melibatkan minimal dua negara yang saling menyepakati perjanjian dagang demi mencapai tujuan ekonomi tertentu.
+Kuis
+	•	Apa penyebab utama setiap negara memiliki jenis sumber daya alam yang berbeda-beda?.
+	•	Jelaskan perbedaan antara kegiatan ekspor dan impor beserta contoh nyatanya bagi Indonesia!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 4.1: Eksplorasi Barang Global di Rumah (Individu)
+	•	Langkah Kerja: Pergilah ke dapur, ruang tamu, atau kamarmu.
+	•	Identifikasi: Carilah minimal 3 barang yang bukan diproduksi di Indonesia (lihat label "Made in...").
+	•	Analisis:
+	•	Apa nama barang tersebut dan berasal dari negara mana?.
+	•	Menurutmu, mengapa barang tersebut harus diimpor dari luar negeri dan tidak cukup jika diproduksi di dalam negeri saja?.
+	•	Kesimpulan: Tuliskan hasil temuanmu dan jelaskan bagaimana perdagangan internasional membantu keluargamu dalam memenuhi kebutuhan sehari-hari!.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Dunia yang Saling Terhubung Perdagangan internasional membuktikan bahwa tidak ada satu pun bangsa yang bisa berdiri sendiri sepenuhnya. Melalui pertukaran sumber daya, kita tidak hanya mendapatkan barang yang kita butuhkan, tetapi juga membangun jembatan kerja sama dan perdamaian antarnegara. Sebagai pelajar di era digital, memahami pola perdagangan ini akan membantumu melihat peluang yang lebih luas di pasar global masa depan.
+Scan (QR Code)
+Pindai di sini untuk menyimak video penjelasan mengenai alur distribusi barang di pelabuhan internasional Indonesia dan bagaimana proses bea cukai bekerja..
+
+Pelajaran 5: Pelaku Ekonomi: RTP, RTK, Pemerintah, dan Luar Negeri
+M1: Memulai dengan Menantang
+Pernahkah kamu berpikir siapa saja yang terlibat di balik sebungkus roti yang kamu beli di kantin?. Mulai dari petani yang menanam gandum, pabrik yang mengolahnya, hingga pemerintah yang mengatur izin usahanya, semuanya saling terhubung. Pelaku ekonomi bukan hanya perusahaan besar, melainkan juga dirimu sendiri dan keluargamu. Mari kita pelajari bagaimana peran setiap pihak dalam memenuhi kebutuhan hidup sehari-hari!.
+A. Rumah Tangga Konsumen (RTK)
+Rumah tangga konsumen adalah kelompok masyarakat, baik individu maupun kelompok, yang melakukan konsumsi atas hasil produksi untuk memenuhi kebutuhan. RTK merupakan pelaku ekonomi yang paling banyak jumlahnya.
+	•	Peran sebagai Konsumen: Membeli barang dan jasa untuk kebutuhan hidup.
+	•	Peran sebagai Penyedia Faktor Produksi: Menyediakan tanah, tenaga kerja, modal, atau keahlian bagi pihak produsen. Sebagai imbalannya, mereka menerima sewa, upah, bunga, atau laba.
+	•	Contoh: Siswa yang membeli perlengkapan sekolah atau seorang ayah yang menyewakan bangunannya untuk dijadikan gudang.
+B. Rumah Tangga Produsen (RTP)
+Rumah tangga produsen adalah pelaku ekonomi yang menghasilkan barang atau jasa untuk memenuhi kebutuhan masyarakat. Berdasarkan kepemilikannya, RTP terbagi menjadi dua jenis, yaitu milik negara dan milik swasta.
+	•	Peran Utama: Menggabungkan berbagai faktor produksi untuk menciptakan manfaat barang/jasa dan menjualnya kepada konsumen.
+	•	Contoh: Pedagang sembako, penjahit pakaian, hingga perusahaan besar yang memproduksi makanan ringan.
+C. Rumah Tangga Pemerintahan
+Pemerintah memiliki peran yang sangat luas dan krusial dalam perekonomian suatu negara.
+	•	Sebagai Konsumen: Melakukan pembelanjaan pendapatan negara untuk kepentingan rakyat, seperti membangun jalan, membeli kertas untuk kantor dinas, dan membayar gaji pegawai (ASN).
+	•	Sebagai Produsen: Menghasilkan barang dan jasa melalui Badan Usaha Milik Negara (BUMN) dan Badan Usaha Milik Daerah (BUMD). Contohnya, PT Pertamina yang mengelola minyak bumi.
+	•	Sebagai Regulator: Membuat kebijakan ekonomi seperti pajak, penetapan suku bunga, dan undang-undang untuk memperkuat perekonomian nasional.
+D. Masyarakat Luar Negeri
+Di era globalisasi, tidak ada negara yang bisa berdiri sendiri tanpa bantuan negara lain. Masyarakat luar negeri berperan dalam:
+	•	Perdagangan Internasional: Melalui kegiatan ekspor (menjual ke luar negeri) dan impor (membeli dari luar negeri).
+	•	Penyedia Sumber Daya: Menyediakan tenaga kerja ahli dan menjadi investor dalam pembangunan infrastruktur dalam negeri.
+	•	Contoh: Indonesia mengimpor besi dari Cina karena produksi lokal belum mencukupi kebutuhan nasional.
+Kuis
+	•	Apa dua peran utama yang dijalankan oleh Rumah Tangga Konsumen (RTK)?.
+	•	Sebutkan salah satu contoh peran pemerintah sebagai produsen dalam ekonomi Indonesia!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 5.1: Analisis Pelaku Ekonomi di Sekitar (Individu)
+	•	Langkah Kerja: Amatilah satu kegiatan ekonomi yang terjadi di sekitar rumahmu (misal: warung kelontong atau pembangunan jalan).
+	•	Identifikasi: Tentukan siapa saja pelaku ekonomi yang terlibat dalam kegiatan tersebut.
+	•	Analisis: Jelaskan peran masing-masing pelaku tersebut berdasarkan kategori yang telah dipelajari (RTP, RTK, Pemerintah, atau Luar Negeri).
+	•	Tugas: Tuliskan hasilnya dalam buku catatan dan ceritakan temuanmu kepada teman sebangku.
+M3: Mengakhiri dengan Berkesan
+Setiap pelaku ekonomi memiliki peran yang saling ketergantungan. Jika salah satu pihak tidak menjalankan fungsinya dengan baik, maka roda perekonomian akan terganggu. Dengan memahami peran-peran ini, kita dapat belajar untuk menjadi konsumen yang bijak sekaligus melihat peluang untuk berkontribusi bagi ekonomi bangsa di masa depan.
+Scan (QR Code)
+Pindai di sini untuk melihat video animasi interaktif mengenai "Alur Lingkaran Kegiatan Ekonomi" guna memahami hubungan timbal balik antara pelaku ekonomi dengan lebih mudah..
+
+Pelajaran 6: Mengenal Mekanisme Pasar dan Pembentukan Harga
+M1: Memulai dengan Menantang
+Pernahkah kamu memperhatikan mengapa harga cabai bisa sangat mahal di waktu tertentu, namun menjadi sangat murah di waktu lainnya?. Atau, mengapa sekarang kita bisa membeli barang dari luar negeri hanya melalui ponsel tanpa harus bertemu penjualnya?. Semua ini berkaitan dengan cara kerja pasar dan bagaimana harga ditentukan dalam kehidupan sehari-hari.
+A. Hakikat dan Fungsi Pasar
+Pasar adalah sarana bertemunya pembeli dan penjual, baik secara langsung maupun tidak langsung, untuk melakukan transaksi jual beli. Saat ini, pasar tidak lagi hanya berupa bangunan fisik, tetapi mencakup platform digital atau internet.
+Terdapat tiga fungsi utama pasar:
+	•	Fungsi Distribusi: Sebagai sarana bagi produsen untuk menyalurkan barang kepada konsumen.
+	•	Fungsi Pembentuk Harga: Tempat terjadinya tawar-menawar antara penjual yang menginginkan laba dan pembeli yang menginginkan harga murah hingga mencapai kesepakatan.
+	•	Fungsi Promosi: Menjadi tempat untuk memperkenalkan produk agar konsumen tertarik membeli, yang pada akhirnya meningkatkan jumlah permintaan barang.
+B. Klasifikasi Jenis-Jenis Pasar
+Pasar dikelompokkan menjadi beberapa kategori sebagai berikut:
+	•	Menurut Jenis Barang: Terdiri atas Pasar Barang Konsumsi (buah, kelontong) dan Pasar Faktor Produksi (tenaga kerja, modal).
+	•	Menurut Waktu: Meliputi Pasar Kaget (saat car free day), pasar harian, mingguan (seperti Pasar Wage), bulanan, hingga tahunan (Pekan Raya Jakarta).
+	•	Menurut Luas Distribusi: Terdiri atas Pasar Lokal, Pasar Daerah (Pasar Beringharjo), Pasar Nasional, dan Pasar Internasional (seperti Alibaba atau Amazon).
+	•	Menurut Fisik: Dibedakan menjadi Pasar Konkret (nyata/tatap muka) dan Pasar Abstrak (transaksi daring melalui Shopee atau Tokopedia).
+C. Konsep Harga dan Pembentukan Harga Pasar
+Harga adalah jumlah uang yang harus dibayarkan untuk mendapatkan suatu barang atau jasa. Harga mencerminkan nilai tukar suatu barang yang dinyatakan dalam satuan uang.
+Harga Pasar (Harga Keseimbangan) terbentuk dari kesepakatan antara penjual dan pembeli. Harga dapat berubah sewaktu-waktu karena dipengaruhi oleh beberapa faktor, yaitu:
+	•	Ketersediaan Barang: Jika barang sedikit (gagal panen), harga cenderung naik.
+	•	Permintaan Konsumen: Semakin tinggi permintaan (misalnya menjelang Lebaran), harga akan meningkat.
+	•	Biaya Produksi: Biaya yang dikeluarkan produsen untuk membuat barang tersebut.
+Kuis
+	•	Apa perbedaan antara pasar konkret dan pasar abstrak?.
+	•	Sebutkan dua faktor yang dapat memengaruhi perubahan harga suatu barang di pasar!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 6.1: Menjelajahi Pasar di Sekitar (Individu)
+	•	Langkah Kerja: Amati satu pasar (tradisional, toko swalayan, atau toko daring) yang pernah kamu atau keluargamu kunjungi.
+	•	Identifikasi: Tuliskan nama pasar tersebut, jenis barang yang dijual, dan bentuk fisiknya.
+	•	Analisis: Tanyakan kepada penjual atau orang tuamu, apakah ada barang yang harganya sedang naik? Apa penyebab kenaikan harga tersebut menurut mereka?.
+	•	Tugas: Masukkan hasil temuanmu ke dalam tabel dan presentasikan di depan kelas.
+M3: Mengakhiri dengan Berkesan
+Memahami mekanisme pasar dan harga membantu kita menjadi konsumen yang bijak dalam mengelola anggaran. Dengan mengetahui fungsi pasar, kita tidak hanya sekadar membeli, tetapi juga memahami bagaimana roda ekonomi berputar untuk memenuhi kebutuhan seluruh masyarakat.
+Scan (QR Code)
+Pindai di sini untuk melihat video penjelasan mengenai "Kurva Permintaan dan Penawaran" serta simulasi bagaimana harga pasar terbentuk melalui tawar-menawar.
+
+Pelajaran 7: Status dan Peran Sosial dalam Interaksi Masyarakat
+M1: Memulai dengan Menantang
+Pernahkah kamu memperhatikan mengapa seseorang begitu dihormati di lingkungannya?. Atau mengapa seorang ibu bisa menjadi guru di sekolah sekaligus pengasuh di rumah?. Ternyata, setiap manusia memiliki "posisi" dan "tugas" tertentu yang muncul dari hasil interaksi mereka dengan masyarakat sekitar. Mari kita pelajari bagaimana status dan peran membentuk identitas kita!
+A. Mengenal Status Sosial
+Status sosial adalah posisi sosial yang definitif bagi seseorang di dalam masyarakat. Status bukan hanya soal gengsi (prestige), melainkan pusat dari struktur sosial. Status sosial dibagi menjadi tiga macam:
+	•	Assigned Status: Status yang diberikan oleh masyarakat atau karena mandat tertentu. Mandat ini biasanya diberikan karena seseorang dianggap berjasa, contohnya Ir. Sukarno yang dijuluki Bapak Proklamator.
+	•	Achieved Status: Kedudukan yang diraih melalui usaha pribadi dan kerja keras. Contohnya adalah menjadi guru, dokter, arsitek, atau pianis.
+	•	Ascribed Status: Status yang diperoleh secara otomatis sejak lahir atau karena ketidaksengajaan. Contohnya adalah menjadi anak bangsawan, menjadi seorang kakak, atau menjadi warga negara Indonesia.
+Perlu diingat bahwa seseorang dapat memiliki banyak status secara bersamaan. Seorang kepala sekolah, misalnya, bisa juga berstatus sebagai orang tua di rumah dan anggota masyarakat di lingkungannya.
+B. Peran Sosial dan Dinamikanya
+Status dan peran selalu berjalan beriringan. Peran adalah perilaku yang diharapkan dari seseorang yang memiliki status tertentu.
+	•	Contoh Peran: Seorang kepala sekolah diharapkan datang pagi, memberikan motivasi kepada guru, dan menjadi teladan bagi siswa.
+	•	Konflik Peran: Terjadi ketika peran dari status yang berbeda saling bertentangan. Misalnya, seorang ibu yang juga kepala sekolah merasa sulit membagi waktu antara jam kerja yang panjang dengan kewajiban mendampingi upacara kelulusan anaknya.
+	•	Ketegangan Peran: Kondisi ketika seseorang kesulitan menyeimbangkan berbagai ekspektasi yang muncul hanya dari satu status yang dimilikinya.
+Kuis
+	•	Apa perbedaan utama antara Achieved Status dan Ascribed Status?.
+	•	Jelaskan apa yang dimaksud dengan konflik peran melalui sebuah contoh!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 7.1: Menelusuri Peran Ganda (Individu)
+	•	Identifikasi: Pilihlah satu orang terdekatmu, bisa ayah, ibu, kakek, atau nenek.
+	•	Analisis: Tuliskan apa saja status sosial yang mereka miliki saat ini.
+	•	Deskripsi: Jelaskan peran sosial apa saja yang harus mereka jalankan dari masing-masing status tersebut.
+	•	Refleksi: Apakah mereka pernah mengalami konflik peran? Bagaimana cara mereka mengatasinya? Tuliskan hasilnya di buku tugasmu.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Pentingnya Menghargai Peran Memahami status dan peran sosial mengajarkan kita untuk lebih menghargai orang lain. Setiap orang memiliki tanggung jawab yang berbeda-beda untuk menjaga keseimbangan hidup bermasyarakat. Sebagai pelajar, peran utamamu adalah belajar dengan rajin dan mengembangkan literasi digital agar siap menghadapi tantangan masa depan.
+Scan (QR Code)
+Pindai di sini untuk melihat video dokumentasi mengenai "Dinamika Status Sosial di Indonesia" untuk melihat bagaimana perjuangan tokoh bangsa meraih status mereka.
+Rangkuman
+	•	Hakikat SDA: Segala sesuatu di permukaan bumi yang dapat dimanfaatkan manusia, terbagi menjadi SDA yang dapat diperbarui (air, tanah, hutan) dan SDA yang tidak dapat diperbarui (minyak bumi, batu bara).
+	•	Potensi Hutan: Terbagi menjadi Hutan Produksi (bahan baku industri), Hutan Lindung (penyangga kehidupan/mencegah banjir), dan Hutan Konservasi (cagar alam dan suaka margasatwa).
+	•	Potensi Tambang: Dikelompokkan berdasarkan UU No. 11 Tahun 1967 menjadi Golongan A/Strategis (minyak dan gas bumi), Golongan B/Vital (emas, perak, tembaga), dan Golongan C/Industri (pasir, batu kapur).
+	•	Potensi Kemaritiman: Meliputi perikanan (tradisional dan modern), energi kelautan terbarukan (gelombang, pasang surut, arus, panas laut), serta wisata bahari.
+	•	Perubahan Potensi: Pertambahan populasi manusia dan peningkatan konsumsi memicu eksploitasi berlebih yang menyebabkan pencemaran dan penurunan potensi SDA.
+	•	Sebab Perdagangan: Terjadi karena perbedaan letak geografis yang menciptakan perbedaan jenis dan pengolahan sumber daya antarnegara.
+	•	Aktivitas Utama: Terdiri atas Ekspor (menjual ke luar negeri) dan Impor (membeli dari luar negeri).
+	•	Indonesia Maju: Potensi besar didukung oleh sektor biofarmasi, pertanian, tambang, energi terbarukan, serta Bonus Demografi (penduduk usia produktif yang melimpah).
+	•	Toponimi: Studi tentang nama-nama tempat (kota, sungai, jalan) yang disematkan pada kenampakan fisik dan kultural.
+	•	Pelaku Ekonomi: Terdiri dari Rumah Tangga Konsumen (RTK), Rumah Tangga Produsen (RTP), Rumah Tangga Pemerintahan (regulator, konsumen, dan produsen melalui BUMN), serta Masyarakat Luar Negeri.
+	•	Pasar: Sarana bertemunya pembeli dan penjual. Fungsinya meliputi distribusi, pembentuk harga, dan promosi.
+	•	Harga: Nilai tukar barang dalam satuan uang yang terbentuk melalui kesepakatan penjual dan pembeli (harga keseimbangan).
+	•	Assigned Status: Diberikan masyarakat karena jasa/mandat (contoh: Pahlawan Nasional).
+	•	Achieved Status: Diraih melalui usaha pribadi (contoh: dokter, pianis).
+	•	Ascribed Status: Diperoleh otomatis sejak lahir (contoh: jenis kelamin, kasta).
+	•	Peran Sosial: Perilaku yang diharapkan sesuai status yang dimiliki. Konflik peran terjadi jika peran dari status yang berbeda saling bertentangan.
+
+Uji Capaian Pembelajaran Tema 3
+A. Pilihlah satu jawaban yang benar!
+	•	Sumber daya alam yang jumlahnya terbatas dan membutuhkan waktu jutaan tahun untuk terbentuk kembali, seperti minyak bumi dan batu bara, disebut sumber daya alam .... 
+a. yang dapat diperbarui 
+b. yang tidak dapat diperbarui 
+c. kemaritiman 
+d. industri
+	•	Jenis hutan yang memiliki fungsi pokok melindungi sistem penyangga kehidupan, mengatur suplai air, mencegah banjir, dan memelihara kesuburan tanah adalah .... 
+a. hutan produksi 
+b. hutan lindung 
+c. hutan konservasi 
+d. taman nasional
+	•	Berdasarkan UU No. 11 Tahun 1967, bahan galian yang bersifat strategis untuk pertahanan dan keamanan negara, seperti minyak bumi dan gas bumi, termasuk dalam .... 
+a. Golongan A 
+b. Golongan B 
+c. Golongan C 
+d. Golongan Industri
+	•	Potensi laut Indonesia yang merupakan energi terbarukan dan ramah lingkungan karena memanfaatkan gerakan naik-turun permukaan laut adalah .... 
+a. energi gelombang 
+b. energi arus laut 
+c. energi pasang surut 
+d. energi panas laut
+	•	Penyebab utama terjadinya perdagangan internasional adalah adanya perbedaan potensi sumber daya yang dimiliki setiap negara karena faktor ....
+a. ideologi politik 
+b. letak geografis 
+c. jumlah penduduk 
+d. luas wilayah
+	•	Kondisi ketika sebagian besar penduduk Indonesia berada pada usia produktif (usia kerja) yang membuka peluang besar untuk melakukan transformasi ekonomi disebut .... 
+a. transisi demografi 
+b. ledakan penduduk 
+c. kesenjangan sosial 
+d. bonus demografi
+	•	Studi yang membahas mengenai nama-nama tempat yang disematkan melalui penamaan pada penampakan fisik dan kultural secara historis disebut .... 
+a. toponimi 
+b. geografi 
+c. arkeologi 
+d. sosiologi
+	•	Pelaku ekonomi yang berperan sebagai penyedia faktor produksi (tanah, tenaga kerja, modal) sekaligus melakukan konsumsi atas hasil produksi adalah .... 
+a. Rumah Tangga Pemerintahan 
+b. Rumah Tangga Produsen (RTP) 
+c. Rumah Tangga Konsumen (RTK) 
+d. Masyarakat Luar Negeri
+	•	Pasar yang transaksinya dilakukan tanpa pertemuan langsung antara penjual dan pembeli melainkan melalui sarana internet atau platform digital disebut pasar .... 
+a. konkret 
+b. lokal 
+c. harian 
+d. abstrak
+	•	Kedudukan atau posisi sosial seseorang dalam masyarakat yang diraih melalui usaha pribadi, kerja keras, dan prestasi individu disebut .... 
+a. assigned status 
+b. achieved status 
+c. ascribed status 
+d. social role
+B. Jawablah pertanyaan-pertanyaan berikut dengan tepat.
+	•	Sumber daya alam seperti air, tanah, dan hutan dikategorikan sebagai sumber daya alam yang dapat diperbarui (renewable resources).
+	•	Tahapan kegiatan pertambangan yang bertujuan untuk mengetahui ukuran, bentuk, posisi, dan jumlah cadangan mineral disebut eksplorasi.
+	•	Kegiatan menjual produk, baik dalam bentuk barang maupun jasa, dari dalam negeri ke luar negeri disebut ekspor.
+	•	Harga yang terbentuk berdasarkan kesepakatan antara pihak penjual dan pembeli melalui proses tawar-menawar disebut harga keseimbangan atau harga pasar.
+	•	Perilaku yang diharapkan dari seseorang yang memiliki status sosial tertentu di dalam masyarakat disebut peran sosial.
+C. Soal AKM (Asesmen Kompetensi Minimum)
+Stimulus 1: Tahapan Pemanfaatan Sumber Daya Tambang "Pertambangan diawali dengan prospeksi untuk mencari mineral, dilanjutkan eksplorasi untuk mengetahui jumlah cadangan, kemudian eksploitasi atau proses pengambilan bahan galian, dan diakhiri dengan pengolahan untuk memurnikan mineral."
+	•	Berdasarkan stimulus tersebut, apa perbedaan mendasar antara tahapan eksplorasi dan eksploitasi? Eksplorasi adalah kegiatan untuk mengetahui ukuran dan jumlah cadangan mineral yang ditemukan, sedangkan eksploitasi adalah proses fisik pengambilan atau penambangan mineral tersebut.
+Stimulus 2: Indonesia Maju 2045 "Indonesia berpotensi menjadi negara maju pada tahun 2045 didukung oleh bonus demografi, di mana jumlah penduduk usia produktif melimpah. Hal ini memerlukan peningkatan kualitas SDM dan literasi digital bagi pelajar."
+	•	Apa yang dapat dilakukan pelajar untuk merespons potensi bonus demografi tersebut? (Pilih satu jawaban benar) 
+a. Meminta pemerintah membangun lebih banyak pabrik asing. 
+b. Meningkatkan rajin belajar dan penguasaan literasi digital. 
+c. Mengurangi jam belajar untuk fokus pada aktivitas hiburan. 
+d. Menunggu bantuan modal dari lembaga keuangan internasional.
+Stimulus 3: Perubahan Nama Tempat (Toponimi) "Peta merekam eksistensi toponimi dari masa ke masa. Contohnya, nama kota Jakarta mengalami perubahan dari Sunda Kelapa menjadi Jayakarta, lalu Batavia, dan akhirnya menjadi Jakarta."
+	•	Berdasarkan stimulus, mengapa peta kuno atau klasik menjadi sumber penting dalam studi toponimi? Karena peta berfungsi sebagai perekam eksistensi dan perubahan sejarah penamaan sebuah tempat dari generasi ke generasi.
+Stimulus 4: Peran Pelaku Ekonomi "Pak Bawang menanam sayuran di kebunnya dan menjualnya ke pasar. Di sisi lain, Pak Bawang juga membeli kebutuhan beras dan sabun di minimarket dekat rumahnya."
+	•	Berdasarkan cerita tersebut, Pak Bawang menjalankan peran sebagai .... 
+a. hanya produsen saja. 
+b. hanya konsumen saja. 
+c. rumah tangga produsen sekaligus rumah tangga konsumen. 
+d. regulator ekonomi pemerintah.
+Stimulus 5: Konflik Peran "Seorang kepala sekolah yang juga merupakan seorang ibu merasa kesulitan membagi waktu antara jam kerja yang panjang di kantor dengan kewajibannya mendampingi anaknya yang sedang sakit di rumah."
+	•	Situasi yang dialami ibu tersebut dalam interaksi sosial disebut sebagai .... Situasi tersebut disebut konflik peran, yaitu kondisi di mana harapan atau peran dari dua status yang berbeda (sebagai kepala sekolah dan sebagai ibu) saling bertentangan.
+
+Kunci jawaban untuk paket soal Uji Capaian Pembelajaran Tema III: Potensi Ekonomi Lingkungan.
+A. Kunci Jawaban Pilihan Ganda
+	•	b (yang tidak dapat diperbarui).
+	•	b (hutan lindung).
+	•	a (Golongan A).
+	•	c (energi pasang surut).
+	•	b (letak geografis).
+	•	d (bonus demografi).
+	•	a (toponimi).
+	•	c (Rumah Tangga Konsumen (RTK)).
+	•	d (abstrak).
+	•	b (achieved status).
+B. Kunci Jawaban Isian Singkat
+	•	Dapat diperbarui (renewable resources).
+	•	Eksplorasi.
+	•	Ekspor.
+	•	Harga keseimbangan atau harga pasar.
+	•	Peran sosial.
+C. Kunci Jawaban Soal AKM
+	•	Eksplorasi bertujuan untuk mengetahui ukuran, bentuk, dan jumlah cadangan mineral, sedangkan eksploitasi adalah proses fisik pengambilan atau penambangan mineral tersebut.
+	•	b (Meningkatkan rajin belajar dan penguasaan literasi digital).
+	•	Peta merupakan perekam eksistensi dan perubahan sejarah penamaan sebuah tempat dari masa ke masa.
+	•	c (Rumah tangga produsen sekaligus rumah tangga konsumen).
+	•	Situasi tersebut dinamakan konflik peran, yaitu kondisi ketika peran dari dua status yang berbeda saling bertentangan secara bersamaan.
+
+Tema IV: Pemberdayaan Masyarakat
+Tujuan Pembelajaran: Setelah mempelajari tema ini, siswa diharapkan mampu:
+	•	Menguraikan penyebab keragaman sosial budaya dan solusi permasalahannya.
+	•	Menerapkan prinsip hidup bersama dalam keragaman budaya masyarakat.
+	•	Mengidentifikasi aktivitas pemberdayaan masyarakat melalui peran komunitas.
+	•	Menelusuri sejarah lokal tokoh-tokoh inspiratif bangsa.
+	•	Memahami literasi keuangan dan pengelolaan keuangan keluarga.
+
+Pelajaran 1: Keragaman Sosial Budaya di Indonesia (Suku, Bahasa, Agama)
+M1: Memulai dengan Menantang
+Tahukah kamu bahwa Indonesia memiliki lebih dari 1.300 suku bangsa dan sekitar 1.100 bahasa daerah?. Bayangkan betapa kayanya bangsa kita dengan ribuan identitas tersebut! Namun, pernahkah terlintas di pikiranmu mengapa kita bisa memiliki keragaman yang begitu luar biasa meski tinggal dalam satu negara yang sama?. Mari kita telusuri bagaimana alam dan sejarah membentuk identitas kita.
+A. Faktor Geografis Penyebab Keragaman
+Lingkungan fisik Indonesia sangat memengaruhi terbentuknya keragaman budaya di masyarakat. Terdapat tiga faktor utama:
+	•	Isolasi Geografis: Sebagai negara kepulauan, lautan di masa lalu menjadi penghambat alami interaksi antar-kelompok manusia. Karena teknologi perkapalan yang masih terbatas, setiap kelompok berkembang secara mandiri dan membentuk kebudayaan serta suku bangsa yang unik sesuai lingkungan mereka.
+	•	Kondisi Iklim: Perbedaan suhu dan cuaca menciptakan adaptasi yang berbeda. Misalnya, masyarakat pegunungan yang bersuhu rendah terbiasa menggunakan pakaian tradisional berlengan panjang atau tebal, sementara masyarakat pesisir cenderung berpakaian lebih tipis.
+	•	Letak Geografis: Posisi Indonesia di persilangan jalur perdagangan dunia membuat kita sering dikunjungi bangsa asing (India, Tiongkok, Arab, dan Eropa). Interaksi ini memicu akulturasi, yaitu percampuran budaya luar dengan budaya asli tanpa menghilangkan identitas lokal.
+B. Mengenal Keragaman Suku, Bahasa, dan Agama
+	•	Suku Bangsa: Terdapat ribuan suku di Indonesia, mulai dari suku-suku besar seperti Jawa, Batak, dan Dayak, hingga beragam suku unik di pedalaman Papua.
+	•	Bahasa Daerah: Dari 1.100 bahasa daerah yang ditemukan, sebanyak 33% di antaranya berasal dari wilayah Papua, sedangkan sisanya tersebar di ribuan pulau lain dalam rumpun Austronesia.
+	•	Agama dan Kepercayaan: Pengaruh kebudayaan Hindu-Buddha, Islam, dan Eropa di masa lalu memberikan pengaruh besar terhadap keragaman agama dan kepercayaan yang dianut masyarakat saat ini.
+C. Unsur Budaya Universal
+Meskipun budaya kita berbeda-beda, terdapat 7 unsur universal yang selalu ada dalam setiap kebudayaan, yaitu: bahasa, sistem pengetahuan, organisasi kemasyarakatan, teknologi, mata pencaharian, sistem religi (agama), dan kesenian.
+M2: Memberi Pengalaman Langsung
+Kegiatan 1.1: Menelusuri Jejak Akulturasi (Individu)
+	•	Eksplorasi: Amatilah lingkungan di sekitarmu dan carilah satu contoh keragaman budaya yang merupakan hasil akulturasi (misal: bangunan masjid berarsitektur Tionghoa, kata serapan dalam bahasa daerah, atau jenis makanan).
+	•	Identifikasi: Tentukan unsur budaya asli mana yang masih ada dan unsur budaya luar mana yang memengaruhinya?.
+	•	Refleksi: Tuliskan pendapatmu mengenai pentingnya menjaga kerukunan di tengah perbedaan tersebut.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Menghargai dalam Bhinneka Tunggal Ika Keragaman adalah kekuatan bangsa, namun jika tidak dikelola dengan bijak, dapat memicu konflik akibat etnosentrisme (merasa budaya sendiri paling baik). Sebagai generasi penerus, kita harus menjunjung tinggi sikap toleransi demi menjaga persatuan menuju Indonesia yang lebih baik di masa depan.
+Scan (QR Code)
+Pindai di sini untuk menyimak video mengenai jati diri pelajar Pancasila yang berpikiran terbuka dan bangga terhadap keragaman budaya Indonesia.
+
+Pelajaran 2: Faktor Geografis yang Memengaruhi Keragaman Budaya (Isolasi, Iklim)
+M1: Memulai dengan Menantang
+Pernahkah kamu memperhatikan mengapa pakaian adat suku Papua di daerah pesisir sangat berbeda dengan pakaian adat suku Batak di pegunungan Sumatra Utara?. Mengapa bentuk rumah tradisional di satu daerah bisa sangat berbeda dengan daerah lainnya?. Ternyata, perbedaan ini bukan sekadar selera, melainkan hasil adaptasi manusia yang luar biasa terhadap lingkungan alamnya. Mari kita pelajari bagaimana "wajah" bumi membentuk identitas kita!
+A. Pengaruh Isolasi Geografis
+Indonesia merupakan negara kepulauan yang sangat luas dengan jumlah pulau mencapai 17.504 pulau. Di masa lalu, nenek moyang kita yang berasal dari Yunan menyebar dan menetap di berbagai pulau di Nusantara.
+	•	Lautan sebagai Pemisah Alami: Dahulu, lautan menjadi isolasi alamiah yang menghambat interaksi antar-kelompok manusia karena keterbatasan teknologi perkapalan.
+	•	Perkembangan Mandiri: Karena minimnya interaksi, setiap kelompok masyarakat tumbuh dan mengembangkan kebudayaan serta bahasa mereka sendiri-sendiri sesuai dengan kondisi lingkungan tempat tinggal mereka.
+	•	Tantangan Etnosentrisme: Keragaman ini adalah kekayaan, namun jika tidak dikelola dengan baik, dapat memicu etnosentrisme, yaitu sikap merasa kebudayaannya sendiri paling baik, yang dapat mengancam persatuan bangsa.
+B. Peran Kondisi Iklim
+Perbedaan ketinggian wilayah di Indonesia menciptakan variasi iklim mikro dan suhu yang sangat beragam. Hal ini memengaruhi pola perilaku manusia secara mendalam:
+	•	Pakaian dan Tradisi: Masyarakat pegunungan yang bersuhu dingin cenderung memakai pakaian berlengan panjang atau tebal, berbeda dengan masyarakat pesisir yang bersuhu panas.
+	•	Mata Pencaharian: Perbedaan iklim menyebabkan jenis tanaman pangan yang dihasilkan berbeda, seperti jagung di Nusa Tenggara dan padi di Sumatra atau Kalimantan, yang kemudian membentuk makanan tradisional khas daerah masing-masing.
+	•	Arsitektur Rumah: Contohnya pada masyarakat adat Baduy di Desa Kanekes, rumah tradisional mereka hanya boleh menghadap utara dan selatan agar sinar matahari masuk dan sirkulasi udara di pegunungan yang lembap tetap terjaga dengan baik.
+M2: Memberi Pengalaman Langsung
+Kegiatan 2.1: Analisis Hubungan Alam dan Budaya (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok yang terdiri atas 3—4 orang.
+	•	Identifikasi: Carilah informasi mengenai satu unsur budaya (bisa makanan, rumah adat, atau pakaian) di daerahmu yang sangat dipengaruhi oleh suhu atau curah hujan.
+	•	Analisis: Jelaskan mengapa unsur budaya tersebut bisa muncul sebagai bentuk adaptasi terhadap kondisi alam setempat.
+	•	Presentasi: Sampaikan hasil temuan kelompokmu di depan kelas untuk mendapatkan umpan balik.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Geografi adalah Arsitek Budaya Geografi bukan hanya tentang menghafal nama pulau, tetapi tentang memahami mengapa kita berbeda. Perbedaan rumah adat dan cara berpakaian adalah bukti kecerdasan nenek moyang kita dalam bersahabat dengan alam. Menghargai perbedaan budaya berarti menghargai cara setiap manusia bertahan hidup di lingkungannya masing-masing.
+Scan (QR Code)
+Pindai di sini untuk menyimak video inspirasi mengenai jati diri pelajar yang berkarakter dan tetap berpikiran terbuka terhadap kebudayaan lain di Indonesia..
+
+Pelajaran 3: Sejarah Lokal dan Perlawanan Tokoh-Tokoh Bangsa
+M1: Memulai dengan Menantang
+Pernahkah kamu membayangkan seorang wanita memimpin ribuan pasukan laut dan mengalahkan penjajah dalam duel satu lawan satu? Atau seorang sultan yang mampu menyatukan wilayah Maluku hingga Papua demi kemerdekaan? Indonesia memiliki sejarah lokal yang sangat luar biasa di mana keberanian dan persatuan menjadi kunci untuk mengusir bangsa asing.
+A. Sultan Nuku: Persatuan Maluku dan Papua
+Sultan Nuku adalah tokoh sentral dari Kerajaan Tidore yang berjuang melawan upaya Belanda untuk menguasai wilayahnya pada akhir abad ke-18.
+	•	Strategi Perjuangan: Nuku membangun kerja sama yang kuat dengan raja-raja di Papua dan mendapatkan bantuan angkatan laut dari Papua serta Mangindanau.
+	•	Revolusi Tidore: Pada tahun 1783, terjadi pergolakan besar yang dikenal sebagai Revolusi Tidore. Nuku berhasil menghimpun kekuatan multikultur untuk mengusir penjajah dan membawa suasana damai di wilayah Maluku serta Papua.
+B. Ratu Kalinyamat: Penguasa Maritim dari Jepara
+Ratu Kalinyamat (nama kecil Retna Kencana) merupakan penguasa wanita yang kuat di pesisir utara Jawa sejak tahun 1549 M.
+	•	Kekuatan Ekonomi: Ia menitikberatkan pengembangan Jepara pada bidang perdagangan dan pelayaran dengan menerapkan sistem commenda (menanam modal pada kapal dagang).
+	•	Perlawanan Terhadap Portugis: Ia mengirimkan ribuan tentara dan ratusan kapal untuk membantu Malaka dan Maluku melawan Portugis. Karena keberaniannya, Portugis menjulukinya sebagai "Rainha de Japara" (Ratu Jepara yang kaya dan pemberani).
+C. Laksamana Malahayati: Penjaga Kerajaan Aceh
+Keumalahayati adalah laksamana wanita pertama di dunia modern yang memimpin armada laut Kerajaan Aceh.
+	•	Pasukan Inong Balee: Ia membentuk pasukan khusus bernama Inong Balee, yang beranggotakan para janda dari prajurit yang gugur dalam perang melawan Portugis.
+	•	Keberhasilan Heroik: Malahayati berhasil menggagalkan percobaan pengacauan oleh Belanda pada tahun 1599. Dalam duel satu lawan satu di atas geladak kapal, ia berhasil menewaskan Cornelis de Houtman.
+Kuis
+	•	Apa peran bangsa Papua dalam perjuangan Sultan Nuku melawan Belanda?
+	•	Mengapa Ratu Kalinyamat dianggap sebagai tokoh penting dalam ekonomi maritim Jawa?
+	•	Siapa pemimpin Belanda yang tewas di tangan Laksamana Malahayati?
+M2: Memberi Pengalaman Langsung
+Kegiatan 3.1: Meneladani Karakter Pahlawan Lokal (Individu)
+	•	Analisis: Pilihlah salah satu dari tiga tokoh di atas (Nuku, Kalinyamat, atau Malahayati).
+	•	Identifikasi: Tuliskan tiga nilai luhur (seperti kerja sama, keberanian, atau keteguhan hati) yang dapat kamu teladani dari perjuangan tokoh tersebut.
+	•	Refleksi: Hubungkan nilai tersebut dengan kehidupanmu sebagai pelajar. Contoh: "Berani melawan kemalasan belajar sama seperti perjuangan Malahayati melawan penjajah".
+	•	Tugas: Sajikan dalam bentuk kartu pahlawan kreatif yang memuat gambar dan nilai keteladanan mereka.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Melawan Penjajah di Diri Sendiri Tokoh-tokoh pemimpin bangsa kita memiliki semangat juang yang tinggi untuk mengusir penjajahan fisik. Sebagai pelajar Pancasila di masa kini, perjuanganmu bukan lagi melawan peluru, melainkan melawan kemalasan dan ketidaktahuan. Dengan mempelajari sejarah lokal, kita belajar bahwa persatuan dan kerja keras adalah modal utama menuju Indonesia yang mandiri dan sejahtera.
+Scan (QR Code)
+Pindai di sini untuk menyimak video dokumenter mengenai jejak benteng Inong Balee di Aceh dan sejarah armada laut Sultan Nuku.
+
+Pelajaran 4: Permasalahan Sosial: Kesenjangan, Kemiskinan, dan Ketimpangan Gender
+M1: Memulai dengan Menantang
+Pernahkah kamu melihat ada orang yang tinggal di rumah sangat megah, sementara di dekatnya ada orang yang kesulitan memenuhi kebutuhan makan sehari-hari? Mengapa hal ini bisa terjadi di tengah masyarakat kita? Sebagai bagian dari generasi masa depan, bagaimana cara kita memahami dan menyikapi perbedaan mencolok ini agar tercipta keadilan bagi semua orang?.
+A. Kesenjangan Sosial dan Kemiskinan
+Kesenjangan sosial adalah fenomena yang sudah ada sejak era kolonial hingga hari ini. Kondisi ini muncul akibat adanya perbedaan tingkat pendapatan individu yang kemudian memicu terjadinya ketimpangan (inequality).
+Erat kaitannya dengan kesenjangan, terdapat masalah kemiskinan. Kemiskinan adalah kondisi di mana seorang individu tidak mampu memenuhi kebutuhan dasar seperti sandang (pakaian), pangan (makanan), dan papan (tempat tinggal). Kemiskinan merupakan masalah global yang dipengaruhi oleh kemampuan individu dalam membaca peluang serta ketekunan dalam bekerja.
+B. Ketimpangan Gender
+Ketimpangan gender adalah kondisi terjadinya ketidaksetaraan atau diskriminasi antara laki-laki dan perempuan dalam kehidupan sosial. Hal ini menjadi tantangan besar karena:
+	•	Akses yang Berbeda: Kesetaraan gender baru tercapai jika perempuan dan laki-laki memperoleh kesempatan yang sama dalam berbagai aspek kehidupan.
+	•	Posisi Indonesia: Menurut data tahun 2020, tingkat kesetaraan gender di Indonesia masih tergolong rendah, yakni berada di peringkat ke-85 dari 153 negara.
+	•	Inisiator Sejarah: Di Indonesia, upaya kesetaraan gender sebenarnya sudah dimulai sejak lama oleh tokoh pahlawan perempuan seperti Ratu Kalinyamat, Keumalahayati, Cut Nyak Dien, Dewi Sartika, dan Kartini.
+Kuis
+	•	Apa yang dimaksud dengan kemiskinan menurut standar kebutuhan dasar?.
+	•	Sebutkan tiga pahlawan perempuan Indonesia yang menginisiasi kesetaraan gender!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 4.1: Analisis Masalah Sosial di Sekitar (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok (4—5 orang) dan amatilah lingkungan atau berita di daerahmu.
+	•	Identifikasi: Carilah data mengenai jumlah penduduk miskin atau contoh ketimpangan gender (misal: perbedaan upah atau kesempatan kerja).
+	•	Diskusi: Analisislah mengapa kemiskinan atau ketimpangan tersebut masih terus terjadi?.
+	•	Solusi: Tuliskan tindakan nyata apa yang dapat kamu lakukan sebagai pelajar untuk membantu mengurangi masalah tersebut.
+	•	Tugas: Sajikan hasil diskusi dalam bentuk peta pemikiran (mind map) yang kreatif.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Menjadi Pelajar Pancasila yang Adil Masalah sosial seperti kemiskinan dan ketimpangan bukan hanya tanggung jawab pemerintah, tetapi tugas kita semua untuk peduli. Sebagai pelajar Pancasila yang mandiri dan memiliki regulasi diri, kamu harus memahami situasi sekitar agar tidak mudah terjerumus dalam perbuatan menyimpang. Dengan memahami kesetaraan, kita belajar menghargai setiap orang tanpa memandang jenis kelamin atau tingkat ekonominya.
+Scan (QR Code)
+Pindai di sini untuk melihat video mengenai jati diri Pelajar Pancasila dalam menjaga kelestarian lingkungan dan kepedulian sosial.
+Pelajaran 5: Sejarah Uang, Pendapatan, dan Tabungan
+M1: Memulai dengan Menantang
+Pernahkah kamu membayangkan bagaimana orang zaman dahulu membeli makanan sebelum ada uang? Apakah mereka menukar ayam dengan sekarung beras? Dan di masa sekarang, mengapa ada orang dengan gaji besar tetap merasa kekurangan, sementara yang bergaji kecil justru bisa menabung? Ternyata, uang bukan hanya soal nominal, melainkan tentang literasi dan cara kita mengelolanya.
+A. Sejarah Uang: Dari Barter ke Uang Elektronik
+Sebelum uang digunakan secara sah, masyarakat menerapkan sistem barter, yaitu pertukaran antarbarang untuk memenuhi kebutuhan. Namun, barter memiliki kendala karena sulitnya menemukan keinginan yang sama di waktu bersamaan dan tidak adanya standar nilai yang pasti.
+Berdasarkan lembaga pembuatnya, uang di Indonesia dibagi menjadi dua:
+	•	Uang Kartal: Diterbitkan pemerintah berupa uang logam dan uang kertas.
+	•	Uang Giral: Simpanan di bank yang dapat diambil menggunakan cek, bilyet giro, atau surat perintah pembayaran lain.
+B. Pendapatan dan Perilaku Konsumsi
+Pendapatan adalah hasil dalam satuan uang yang diperoleh individu atas kegiatan atau pekerjaan yang dilakukan. Besar kecilnya pendapatan memengaruhi pola konsumsi seseorang. Fenomena ini dijelaskan dalam Hukum Engel:
+"Semakin kecil pendapatan, semakin besar bagian pendapatan itu ditujukan untuk konsumsi. Sebaliknya, semakin besar pendapatan, semakin besar bagian pendapatan yang bisa dialihkan untuk tabungan".
+C. Tabungan dan Investasi
+Meski sering dianggap sama, keduanya berbeda tujuan:
+	•	Tabungan: Simpanan uang dari pendapatan yang tidak digunakan untuk keperluan sehari-hari. Manfaatnya meliputi melatih hidup hemat, menyediakan dana darurat, dan meminimalkan utang.
+	•	Investasi: Bertujuan meningkatkan nilai tambah uang atau mencari keuntungan di masa depan, seperti melalui saham, emas, atau reksa dana.
+D. Pengelolaan Keuangan Keluarga
+Mengelola keuangan berarti merencanakan dan mengendalikan uang agar tujuan hidup tercapai. Langkah utamanya meliputi:
+	•	Menyusun Tujuan: Menentukan apa yang ingin dicapai dalam jangka pendek atau panjang.
+	•	Membedakan Kebutuhan dan Keinginan: Kebutuhan harus dipenuhi untuk bertahan hidup, sedangkan keinginan dipengaruhi oleh selera dan gaya hidup.
+	•	Menyusun Anggaran: Mencatat rencana pendapatan dan pengeluaran dengan skala prioritas.
+	•	Memilih Sistem: Bisa menggunakan Sistem Amplop (untuk pendapatan rutin) atau Sistem Buku Kas Harian (untuk mengontrol pengeluaran setiap hari).
+Kuis
+	•	Apa perbedaan utama antara uang kartal dan uang giral?
+	•	Mengapa investasi dianggap berbeda dengan sekadar menabung?
+M2: Memberi Pengalaman Langsung
+Kegiatan 5.1: Simulasi Skala Prioritas (Individu)
+	•	Langkah Kerja: Bayangkan kamu memiliki uang saku tambahan sebesar Rp1.000.000,00.
+	•	Tugas: Buatlah daftar antara Kebutuhan (misal: buku, alat tulis) dan Keinginan (misal: mainan, camilan mahal).
+	•	Analisis: Susunlah rencana penggunaan uang tersebut selama satu bulan. Berapa yang akan kamu gunakan untuk konsumsi dan berapa yang akan kamu tabung?
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Melek Finansial di Era Digital Di era digital, kita sangat mudah tergoda oleh promosi belanja daring dan fitur pay later. Tanpa literasi keuangan yang kuat, seseorang bisa terjebak dalam utang yang merugikan. Menjadi pelajar yang bijak berarti berani berkata "tidak" pada keinginan sesaat demi keamanan finansial di masa depan.
+Scan (QR Code)
+Pindai di sini untuk menyimak tip dari OJK mengenai keamanan bank digital dan cara menghindari investasi bodong.
+
+Pelajaran 6: Pengelolaan Keuangan Keluarga dan Literasi Finansial
+M1: Memulai dengan Menantang
+Pernahkah kamu bertanya-tanya mengapa ada orang dengan pendapatan besar namun sering terlilit utang, sementara ada orang dengan pendapatan pas-pasan justru bisa menabung dan hidup tenang?. Di era digital saat ini, promosi belanja daring dan fitur pay later sangat mudah menggoda kita untuk membeli barang yang sebenarnya tidak dibutuhkan. Bagaimana cara kita mengelola uang agar tidak hanya "numpang lewat" tetapi benar-benar bermanfaat untuk masa depan?.
+A. Hakikat Literasi Keuangan
+Literasi keuangan adalah pengetahuan dan keterampilan yang digunakan untuk membuat keputusan keuangan yang tepat guna memenuhi kebutuhan. Pemahaman ini sangat penting karena pertumbuhan produk keuangan saat ini sangat cepat dan mudah diakses. Tanpa literasi yang kuat, seseorang berisiko terjebak dalam:
+	•	Pinjaman daring (online) yang merugikan.
+	•	Perjudian daring dan skema investasi bodong.
+	•	Perilaku konsumtif akibat pengaruh influencer atau kemudahan aplikasi belanja.
+B. Pengelolaan Keuangan Keluarga
+Pengelolaan keuangan merupakan kegiatan merencanakan, mengorganisasikan, dan mengendalikan uang untuk konsumsi, tabungan, serta investasi. Tujuannya adalah agar pengeluaran tidak lebih besar dari pendapatan dan tujuan hidup jangka panjang dapat tercapai.
+Langkah-langkah utama dalam mengelola keuangan meliputi:
+	•	Menyusun Tujuan: Menetapkan target yang ingin dicapai dalam jangka pendek, menengah, atau panjang.
+	•	Menyusun Rencana Pendapatan: Mencatat semua penghasilan rutin bulanan.
+	•	Menyusun Rencana Pengeluaran: Mengatur belanja berdasarkan skala prioritas dan membedakan antara kebutuhan (hal wajib untuk bertahan hidup) serta keinginan (hal yang dipengaruhi selera).
+	•	Melakukan Reviu: Mengevaluasi apakah target keuangan sudah tercapai secara berkala.
+C. Model Pengelolaan Keuangan
+Ada beberapa sistem yang dapat diterapkan keluarga dalam mengatur uang:
+	•	Sistem Amplop: Membagi pendapatan ke dalam amplop-amplop berbeda sesuai rencana kebutuhan. Cocok untuk pendapatan rutin.
+	•	Sistem Buku Kas Harian: Mencatat setiap pemasukan dan pengeluaran setiap hari selama sebulan untuk mengontrol pengeluaran yang tidak penting.
+	•	Sistem Kas Keluarga: Membagi pengeluaran ke dalam kelompok tetap, harian, dan tak terduga.
+Kuis
+	•	Apa perbedaan antara kebutuhan dan keinginan menurut konsep literasi keuangan?.
+	•	Sebutkan dua risiko utama jika seseorang memiliki literasi keuangan yang rendah!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 6.1: Menjadi Manajer Keuangan Mandiri (Individu).
+	•	Identifikasi: Tuliskan 3 barang yang saat ini sangat kamu inginkan dan 3 barang yang benar-benar kamu butuhkan untuk sekolah.
+	•	Pencatatan: Buatlah laporan penggunaan uang sakumu selama satu minggu terakhir.
+	•	Analisis: Apakah pengeluaranmu lebih banyak digunakan untuk kebutuhan atau keinginan?.
+	•	Rencana: Jika kamu diberi uang tambahan Rp1.000.000,00, susunlah skala prioritas penggunaannya (berapa untuk ditabung dan berapa untuk belanja).
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Melek Finansial Sejak Dini Menjadi Pelajar Pancasila yang mandiri berarti memiliki kemampuan regulasi diri dalam mengelola keuangan. Di era Revolusi Industri 4.0, kecakapan mengelola uang adalah salah satu kunci kesuksesan hidup. Dengan membiasakan diri hidup hemat dan bijak dalam berkonsumsi hari ini, kamu sedang membangun fondasi masa depan yang stabil dan sejahtera.
+Scan (QR Code)
+Pindai di sini untuk menyimak tip dari OJK mengenai keamanan bank digital serta cara membedakan investasi legal dan investasi bodong.
+
+Pelajaran 7: Peranan Komunitas dan Pemberdayaan Masyarakat Desa
+M1: Memulai dengan Menantang
+Pernahkah kamu bergabung dalam kelompok hobi, seperti komunitas sepeda atau fotografi? Komunitas bukan sekadar tempat berkumpul untuk bersenang-senang, melainkan memiliki kekuatan besar untuk melakukan perubahan sosial. Bagaimana jika sebuah komunitas kecil di desamu mampu mengubah pekarangan rumah menjadi sumber penghasilan keluarga atau mengubah tumpukan sampah menjadi barang bernilai ekonomi? Mari kita pelajari bagaimana kekuatan kebersamaan dapat memandirikan masyarakat.
+A. Hakikat Komunitas
+Komunitas adalah kesatuan sosial yang terorganisasi dalam suatu kelompok yang memiliki kepentingan bersama dalam suatu wilayah tertentu. Komunitas dapat terbentuk karena adanya kesamaan sistem sosial, wilayah geografis, hobi, maupun hubungan personal.
+Secara umum, komunitas berfungsi sebagai wadah hubungan sosial untuk mendukung tercapainya tujuan dan keinginan anggota secara bersama-sama. Contohnya mencakup komunitas petani, komunitas peduli pendidikan anak, hingga komunitas postcrossing.
+B. Bentuk Pemberdayaan Masyarakat
+Pemberdayaan masyarakat bertujuan untuk meningkatkan kemandirian dan kesejahteraan masyarakat. Berdasarkan lingkupnya, pemberdayaan ini terbagi menjadi dua:
+	•	Pemberdayaan Masyarakat dalam Komunitas: Berfokus pada peningkatan keterampilan kelompok tertentu.
+	•	Contoh: Pelatihan membuat makanan pendamping (MP-ASI) dari labu siam bagi komunitas ibu-ibu Posyandu untuk meningkatkan gizi batita.
+	•	Pemberdayaan Masyarakat Desa: Berfokus pada pengembangan potensi ekonomi wilayah perdesaan.
+	•	Contoh: Pemanfaatan pekarangan rumah untuk budi daya tanaman hias (anggrek) sebagai pendapatan tambahan dan sarana rekreasi.
+	•	Wadah: Dapat berupa Lembaga Swadaya Masyarakat (LSM), Posyandu, Karang Taruna Husada, atau Dana Sehat.
+C. Peran Komunitas dalam Pembangunan Berkelanjutan
+Komunitas berperan penting dalam menjaga kelestarian lingkungan demi generasi masa depan melalui beberapa cara:
+	•	Mengubah Pola Pikir: Mendorong individu memiliki pemikiran ramah lingkungan dan menyadari hubungan timbal balik dengan alam.
+	•	Aksi Nyata: Melakukan kegiatan sosial-ekonomi secara bertanggung jawab, seperti pembentukan bank sampah untuk membiasakan warga memilah dan mendaur ulang sampah.
+	•	Membangun Kualitas Manusia: Menciptakan masyarakat yang sehat, cerdas, dan bermental baik melalui semangat gotong royong.
+Kuis
+	•	Apa perbedaan antara pemberdayaan masyarakat dalam komunitas dan pemberdayaan masyarakat desa?.
+	•	Sebutkan satu contoh aksi nyata komunitas dalam mendukung pembangunan berkelanjutan!.
+M2: Memberi Pengalaman Langsung
+Kegiatan 7.1: Wawancara Tokoh Komunitas Lokal (Kelompok)
+	•	Langkah Kerja: Bentuklah kelompok (4—5 orang) dan pilihlah satu tokoh masyarakat atau pengurus komunitas di daerahmu (misal: pengurus Bank Sampah atau Karang Taruna).
+	•	Wawancara: Tanyakan mengenai asal-usul komunitas, peran mereka dalam kemajuan daerah, serta prestasi yang pernah diraih.
+	•	Analisis: Jelaskan sifat dan perilaku tokoh tersebut yang dapat kamu teladani sebagai Pelajar Pancasila.
+	•	Tugas: Sajikan hasil temuanmu dalam bentuk infografik digital dan bagikan di media sosial sekolah.
+M3: Mengakhiri dengan Berkesan
+IPS Around Us: Peranmu bagi Bangsa Setiap individu, termasuk kamu sebagai pelajar, memiliki peran dalam pemberdayaan masyarakat, mulai dari lingkungan terkecil yaitu keluarga hingga sekolah. Menuju Indonesia Emas 2045, kontribusi konkretmu dalam komunitas—sekecil apa pun itu—adalah langkah nyata untuk mewujudkan masyarakat yang adil, makmur, dan sejahtera.
+Scan (QR Code)
+Pindai di sini untuk melihat video dokumenter mengenai "Desa Wisata Anggrek Tulungrejo" sebagai contoh sukses pemberdayaan ekonomi desa memanfaatkan lahan rumah..
+
+Rangkuman
+	•	Keragaman budaya di Indonesia dipengaruhi oleh isolasi geografis (kondisi kepulauan yang menghambat interaksi), kondisi iklim (perbedaan suhu dan cuaca yang memicu adaptasi perilaku), dan letak geografis (posisi silang perdagangan internasional yang memicu akulturasi).
+	•	Unsur Budaya Universal: Terdapat tujuh unsur yang ditemukan di semua kebudayaan, yaitu bahasa, sistem pengetahuan, organisasi kemasyarakatan, peralatan hidup/teknologi, mata pencaharian/ekonomi, religi, dan kesenian.
+	•	Sultan Nuku: Tokoh dari Tidore yang berhasil menyatukan kekuatan multikultur Maluku dan Papua untuk mengusir penjajah Belanda.
+	•	Ratu Kalinyamat: Penguasa Jepara yang dikenal memiliki kekuatan maritim besar dan berperan aktif membantu daerah lain (seperti Malaka dan Maluku) melawan Portugis.
+	•	Laksamana Malahayati: Laksamana wanita pertama dari Kerajaan Aceh yang memimpin pasukan Inong Balee (pasukan janda prajurit) dan berhasil mengalahkan pemimpin Belanda, Cornelis de Houtman.
+	•	Kesenjangan dan Kemiskinan: Kemiskinan dideinisikan sebagai kondisi individu yang tidak mampu memenuhi kebutuhan dasar (sandang, pangan, dan papan).
+	•	Ketimpangan Gender: Kondisi terjadinya diskriminasi atau ketidaksetaraan akses antara laki-laki dan perempuan dalam kehidupan sosial.
+	•	Kenakalan Remaja: Meliputi aksi vandalisme (coret-coret fasilitas umum), tawuran antarpelajar, dan penyalahgunaan narkotika yang merusak masa depan generasi muda.
+	•	Sejarah Uang: Dimulai dari sistem barter (tukar barang) hingga penggunaan uang kartal dan giral sebagai alat pembayaran sah.
+	•	Hukum Engel: Semakin kecil pendapatan seseorang, semakin besar persentase pendapatan yang digunakan untuk konsumsi; sebaliknya, semakin besar pendapatan, semakin besar bagian yang bisa ditabung.
+	•	Langkah Pengelolaan: Meliputi penyusunan tujuan keuangan (jangka pendek/panjang), rencana pendapatan, rencana pengeluaran (membedakan kebutuhan dan keinginan), serta reviu berkala.
+	•	Sistem Pencatatan: Menggunakan Sistem Amplop (membagi uang ke amplop sesuai rencana) atau Sistem Buku Kas Harian (mencatat semua transaksi setiap hari).
+	•	Komunitas: Kesatuan sosial yang terorganisasi berdasarkan kepentingan bersama, wilayah geografis, atau hobi.
+	•	Bentuk Pemberdayaan: Dapat berupa pemberdayaan dalam komunitas (contoh: pelatihan gizi bagi ibu Posyandu) maupun pemberdayaan desa (contoh: pemanfaatan pekarangan rumah untuk budi daya tanaman bernilai ekonomi).
+	•	Pembangunan Berkelanjutan: Komunitas berperan mengubah pola pikir (mindset) masyarakat agar lebih ramah lingkungan dan bertanggung jawab dalam kegiatan sosial-ekonomi.
+
+Uji Capaian Pembelajaran Tema 4
+A. Pilihlah satu jawaban yang benar!
+	•	Faktor geografis yang menyebabkan setiap kelompok masyarakat di Indonesia mengembangkan kebudayaan yang unik dan berbeda-beda karena terhambatnya interaksi antarpulau di masa lalu disebut .... 
+a. letak astronomis 
+b. kondisi iklim 
+c. isolasi geografis 
+d. perubahan geologis
+	•	Dalam kajian antropologi, terdapat unsur budaya yang bersifat universal dan dapat ditemukan di seluruh dunia. Salah satu unsur tersebut adalah .... 
+a. sistem mata pencaharian 
+b. etnosentrisme budaya 
+c. isolasi geografis 
+d. sejarah lokal
+	•	Sultan Nuku dari Kerajaan Tidore dikenal sebagai tokoh yang berhasil mengusir penjajah dengan strategi memperkuat persatuan multikultur antara wilayah .... 
+a. Maluku dan Sulawesi 
+b. Jawa dan Sumatra 
+c. Aceh dan Banten 
+d. Maluku dan Papua
+	•	Pasukan khusus yang dibentuk oleh Laksamana Malahayati di Kerajaan Aceh, yang beranggotakan para janda prajurit yang gugur dalam perang, bernama .... 
+a. Pasukan Tidore 
+b. Pasukan Inong Balee 
+c. Armada Kalinyamat 
+d. Laskar Pejuang
+	•	Kemiskinan dideinisikan sebagai fenomena global di mana seorang individu tidak memiliki kemampuan untuk memenuhi kebutuhan dasar, yaitu .... 
+a. transportasi dan rekreasi 
+b. gadget dan internet 
+c. sandang, pangan, dan papan 
+d. pendidikan dan investasi
+	•	Tokoh pahlawan perempuan Indonesia yang secara historis telah menginisiasi gerakan kesetaraan gender dan pemberdayaan perempuan adalah .... 
+a. Ratu Kalinyamat dan Kartini 
+b. Sultan Nuku dan Malahayati 
+c. Arya Penangsang dan Cornelis de Houtman 
+d. Pangeran Diponegoro dan Pattimura
+	•	Perbuatan merusak atau menghancurkan hasil karya seni, fasilitas umum, dan barang berharga lainnya tanpa izin disebut sebagai .... 
+a. asimilasi 
+b. akulturasi 
+c. sosialisasi 
+d. vandalisme
+	•	Fenomena ekonomi yang menyatakan bahwa semakin besar pendapatan seseorang, maka persentase pendapatan yang digunakan untuk konsumsi akan semakin kecil karena dialihkan ke tabungan, disebut .... 
+a. Hukum Kelangkaan 
+b. Hukum Engel 
+c. Prinsip Investasi 
+d. Literasi Finansial
+	•	Jenis uang yang berupa simpanan di bank dan dapat ditarik menggunakan cek, bilyet giro, atau kartu debit disebut sebagai .... 
+a. uang kartal 
+b. uang logam 
+c. uang giral 
+d. uang elektronik
+	•	Dalam pembangunan berkelanjutan (SDGs), pilar yang berfokus pada kesejahteraan masyarakat, pendidikan, dan kesehatan disebut .... 
+a. pilar lingkungan 
+b. pilar pembangunan sosial 
+c. pilar tata kelola 
+d. pilar ekonomi
+B. Jawablah pertanyaan-pertanyaan berikut dengan tepat.
+	•	Percampuran antara kebudayaan asing dengan kebudayaan asli Indonesia tanpa menghilangkan unsur asli kebudayaan tersebut dinamakan akulturasi.
+	•	Laksamana wanita pertama di dunia modern yang berasal dari Kerajaan Aceh dan berhasil mengalahkan Cornelis de Houtman adalah Keumalahayati (atau Malahayati).
+	•	Hasil dalam satuan uang yang diperoleh individu atas kegiatan atau pekerjaan yang dilakukan disebut pendapatan.
+	•	Kegiatan menanam modal dengan tujuan untuk meningkatkan nilai tambah atau mendapatkan keuntungan di masa depan disebut investasi.
+	•	Kesatuan sosial yang terorganisasi dalam kelompok yang memiliki kepentingan bersama dalam suatu wilayah tertentu disebut komunitas.
+C. Soal AKM (Asesmen Kompetensi Minimum)
+Stimulus 1: Masalah Deforestasi "Data Forest Watch Indonesia menunjukkan persentase tutupan hutan alam di Indonesia menurun dari 55,82% pada tahun 2000 menjadi 43,45% pada tahun 2017 akibat alih fungsi lahan untuk perkebunan dan permukiman."
+	•	Berdasarkan stimulus, apa penyebab utama penurunan luas hutan di Indonesia? Penyebab utamanya adalah deforestasi atau perambahan hutan akibat alih fungsi lahan untuk kepentingan perkebunan, industri, dan permukiman penduduk.
+Stimulus 2: Strategi Perjuangan Sultan Nuku "Sultan Nuku membangun kerja sama yang kuat dengan raja-raja di Papua dan mendapatkan bantuan angkatan laut dari Papua untuk mengusir Belanda dari wilayah Maluku."
+	•	Apa nilai luhur yang dapat dipetik dari strategi Sultan Nuku dalam konteks Indonesia saat ini? (Pilih satu jawaban benar) a. Keunggulan senjata modern b. Persatuan dan kerja sama lintas budaya c. Ketergantungan pada bantuan asing d. Persaingan antarwilayah
+Stimulus 3: Literasi Keuangan di Era Digital "Survei OJK tahun 2022 menunjukkan indeks literasi keuangan masyarakat Indonesia baru mencapai 49,68%, sementara akses digital (inklusi) sudah mencapai 85,10%. Hal ini berisiko membuat masyarakat terjebak pinjaman online ilegal dan investasi bodong."
+	•	Mengapa indeks inklusi yang lebih tinggi daripada indeks literasi dapat membahayakan masyarakat? Karena masyarakat memiliki akses ke produk keuangan digital namun tidak memiliki pengetahuan yang cukup untuk membuat keputusan yang tepat, sehingga berisiko terjebak utang, penipuan, atau investasi bodong.
+Stimulus 4: Kenakalan Remaja "Tawuran antarpelajar dan penyalahgunaan narkotika merupakan tantangan besar bagi generasi penerus bangsa. Hal ini tidak selaras dengan cita-cita pahlawan yang dahulu berjuang memerangi kebodohan."
+	•	Menurut pendapatmu, apa solusi terbaik untuk mencegah tawuran antarpelajar berdasarkan stimulus tersebut? Solusinya adalah memupuk persahabatan, meningkatkan regulasi diri sebagai Pelajar Pancasila, dan menyalurkan kompetensi melalui ajang kejuaraan resmi alih-alih kekerasan.
+Stimulus 5: Peran Bank Sampah "Bank sampah merupakan aksi nyata komunitas untuk mendorong warga memilah dan mendaur ulang sampah, sehingga mengubah pola pikir masyarakat menjadi lebih ramah lingkungan."
+	•	Aksi bank sampah selaras dengan pilar pembangunan berkelanjutan (SDGs), yaitu pilar .... Aksi tersebut selaras dengan pilar pembangunan lingkungan, karena berfokus pada menjaga kelestarian alam dan tanggung jawab terhadap lingkungan hidup.
+
+Kunci jawaban untuk paket soal Uji Capaian Pembelajaran Tema IV: Pemberdayaan Masyarakat.
+A. Kunci Jawaban Pilihan Ganda
+	•	c (isolasi geografis)
+	•	a (sistem mata pencaharian)
+	•	d (Maluku dan Papua)
+	•	b (Pasukan Inong Balee)
+	•	c (sandang, pangan, dan papan)
+	•	a (Ratu Kalinyamat dan Kartini)
+	•	d (vandalisme)
+	•	b (Hukum Engel)
+	•	c (uang giral)
+	•	b (pilar pembangunan sosial)
+B. Kunci Jawaban Isian Singkat
+	•	akulturasi
+	•	Keumalahayati (atau Malahayati)
+	•	pendapatan
+	•	investasi
+	•	komunitas
+C. Kunci Jawaban Soal AKM
+	•	Penyebab utamanya adalah deforestasi atau perambahan hutan akibat alih fungsi lahan untuk kepentingan perkebunan, industri, dan permukiman.
+	•	b (Persatuan dan kerja sama lintas budaya).
+	•	Karena masyarakat memiliki akses ke produk keuangan digital (inklusi) namun kurang pengetahuan (literasi) untuk membuat keputusan yang tepat, sehingga berisiko terjebak utang, penipuan, atau investasi bodong.
+	•	Memupuk persahabatan, meningkatkan regulasi diri sebagai Pelajar Pancasila, dan menyalurkan kompetensi melalui ajang kejuaraan resmi.
+	•	Pilar pembangunan lingkungan, karena berfokus pada menjaga kelestarian alam dan hubungan timbal balik dengan alam.
