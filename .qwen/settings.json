@@ -28,7 +28,9 @@
       "Bash(rm *)",
       "Bash(then *)",
       "Bash(fi)",
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git remote *)"
     ]
   },
   "$version": 3
