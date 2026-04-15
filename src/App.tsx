@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { AnimatePresence } from 'framer-motion'
 import Dashboard from './pages/Dashboard'
 import Layout from './components/Layout'
+import ScrollToTop from './components/ScrollToTop'
 
 // Tema I
 import LabGeografi from './pages/labs/LabGeografi'
@@ -42,6 +43,7 @@ import LabKomunitas from './pages/labs/LabKomunitas'
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <AnimatePresence mode="wait">
         <Routes>
           <Route element={<Layout />}>

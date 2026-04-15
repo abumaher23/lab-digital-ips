@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -9,20 +11,67 @@
   }
 
   body {
-    @apply bg-white text-gray-900;
+    @apply bg-gray-50 text-gray-900;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+    scroll-behavior: smooth;
   }
 }
 
 @layer components {
   .btn-primary {
-    @apply px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors;
+    @apply px-6 py-3 bg-primary-600 text-white rounded-xl hover:bg-primary-700 transition-all duration-200 font-semibold shadow-soft hover:shadow-medium hover:-translate-y-0.5;
   }
-  
+
   .btn-secondary {
-    @apply px-4 py-2 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors;
+    @apply px-6 py-3 bg-white text-primary-700 rounded-xl hover:bg-gray-50 transition-all duration-200 font-semibold border-2 border-primary-600 hover:shadow-soft;
   }
-  
+
+  .btn-gradient {
+    @apply px-6 py-3 bg-gradient-to-r from-primary-600 to-accent-600 text-white rounded-xl hover:from-primary-700 hover:to-accent-700 transition-all duration-200 font-semibold shadow-soft hover:shadow-medium hover:-translate-y-0.5;
+  }
+
   .card {
-    @apply bg-white rounded-xl shadow-lg p-6 border border-gray-100;
+    @apply bg-white rounded-xl shadow-soft p-6 border border-gray-100 transition-all duration-200 hover:shadow-medium;
+  }
+
+  .card-hover {
+    @apply hover:shadow-medium hover:-translate-y-1 transition-all duration-200;
+  }
+
+  .section-padding {
+    @apply py-16 lg:py-24;
+  }
+
+  .container-custom {
+    @apply max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .heading-1 {
+    @apply text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight;
+  }
+
+  .heading-2 {
+    @apply text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight;
+  }
+
+  .heading-3 {
+    @apply text-2xl sm:text-3xl font-bold;
+  }
+
+  .heading-4 {
+    @apply text-xl font-semibold;
+  }
+
+  .text-body {
+    @apply text-base lg:text-lg leading-relaxed;
+  }
+
+  .text-small {
+    @apply text-sm lg:text-base;
   }
 }
