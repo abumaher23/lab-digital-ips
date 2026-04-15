@@ -217,7 +217,7 @@ export default function Dashboard() {
 
                   {/* Preview Cards */}
                   <div className="space-y-3">
-                    {temaGroups.slice(0, 3).map((tema, idx) => (
+                    {temaGroups.slice(0, 3).map((tema) => (
                       <div key={tema.id} className={`bg-gradient-to-r ${tema.color} rounded-xl p-4 text-white`}>
                         <div className="flex items-center justify-between">
                           <div>
@@ -350,7 +350,7 @@ export default function Dashboard() {
                       className={`${tema.bgColor} p-5 lg:p-6`}
                     >
                       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-                        {tema.labs.map((lab, labIdx) => (
+                        {tema.labs.map((lab) => (
                           <Link
                             key={lab.path}
                             to={lab.path}

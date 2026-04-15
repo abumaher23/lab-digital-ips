@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { Star, BookOpen, Award, Users } from 'lucide-react'
+import { Star, Award, Users } from 'lucide-react'
 
 interface TeamMember {
   name: string
